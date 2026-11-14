@@ -1,0 +1,5754 @@
+[
+  {
+    "name": "7-Zip",
+    "nameAr": "سيفن زيب",
+    "category": "windows",
+    "desc": "أداة ضغط وفك ضغط ملفات مجانية ومفتوحة المصدر، تدعم صيغة 7z وRAR وتقنيات تشفير AES-256.",
+    "platforms": [
+      "windows"
+    ],
+    "license": "open-source",
+    "url": "https://github.com/ip7z/7zip/releases/latest",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-01",
+    "alternatives": [
+      "WinRAR"
+    ],
+    "tags": [
+      "ضغط ملفات",
+      "أرشيف",
+      "تشفير"
+    ],
+    "slug": "7-zip"
+  },
+  {
+    "name": "BleachBit",
+    "nameAr": "بليتش بت",
+    "category": "windows",
+    "desc": "منظّف قرص وحماية خصوصية مفتوح المصدر يحذف الملفات المؤقتة وآثار التصفح ويوفّر مساحة.",
+    "platforms": [
+      "windows",
+      "linux"
+    ],
+    "license": "open-source",
+    "url": "https://www.bleachbit.org/download",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-01",
+    "alternatives": [
+      "CCleaner"
+    ],
+    "tags": [
+      "تنظيف",
+      "خصوصية",
+      "صيانة"
+    ],
+    "slug": "bleachbit"
+  },
+  {
+    "name": "CPU-Z",
+    "nameAr": "سي بي يو زد",
+    "category": "windows",
+    "desc": "أداة مجانية لعرض مواصفات المعالج واللوحة الأم والذاكرة والرسوميات بدقة عالية.",
+    "platforms": [
+      "windows"
+    ],
+    "license": "free",
+    "url": "https://www.cpuid.com/softwares/cpu-z.html",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "HWiNFO",
+      "Speccy"
+    ],
+    "tags": [
+      "معلومات نظام",
+      "معالج",
+      "مجاني"
+    ],
+    "slug": "cpu-z"
+  },
+  {
+    "name": "Ditto Clipboard",
+    "nameAr": "ديتو كليب بورد",
+    "category": "windows",
+    "desc": "مدير حافظة متقدم لويندوز يحفظ نسخك السابقة ويُظهرها عند الحاجة.",
+    "platforms": [
+      "windows"
+    ],
+    "license": "open-source",
+    "url": "https://ditto-cp.sourceforge.io/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [],
+    "tags": [
+      "حافظة",
+      "نسخ",
+      "ويندوز"
+    ],
+    "slug": "ditto-clipboard"
+  },
+  {
+    "name": "Everything",
+    "nameAr": "إيفريثينج",
+    "category": "windows",
+    "desc": "أداة بحث فورية عن الملفات والمجلدات على قرصك المحلي بنتائج لحظية وسرعة عالية جداً.",
+    "platforms": [
+      "windows"
+    ],
+    "license": "free",
+    "url": "https://www.voidtools.com/downloads/",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-01",
+    "alternatives": [
+      "WizTree",
+      "WinDirStat"
+    ],
+    "tags": [
+      "بحث ملفات",
+      "سرعة",
+      "إدارة"
+    ],
+    "slug": "everything"
+  },
+  {
+    "name": "GPU-Z",
+    "nameAr": "جي بي يو زد",
+    "category": "windows",
+    "desc": "أداة صغيرة لمعرفة تفاصيل كرت الشاشة ودرجة حرارته وسرعاته.",
+    "platforms": [
+      "windows"
+    ],
+    "license": "free",
+    "url": "https://www.techpowerup.com/gpuz/",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "HWiNFO"
+    ],
+    "tags": [
+      "كرت شاشة",
+      "معلومات",
+      "مجاني"
+    ],
+    "slug": "gpu-z"
+  },
+  {
+    "name": "Greenshot",
+    "nameAr": "غرين شوت",
+    "category": "windows",
+    "desc": "أداة لقطات شاشة خفيفة ومفتوحة المصدر مع تحرير سريع وتصدير متعدد.",
+    "platforms": [
+      "windows"
+    ],
+    "license": "open-source",
+    "url": "https://getgreenshot.org/",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "ShareX"
+    ],
+    "tags": [
+      "لقطات",
+      "شاشة",
+      "مجاني"
+    ],
+    "slug": "greenshot"
+  },
+  {
+    "name": "HWiNFO",
+    "nameAr": "إتش واي إنفو",
+    "category": "windows",
+    "desc": "أداة احترافية مجانية لمراقبة مكونات الجهاز وحرارته وأدائه بالتفصيل.",
+    "platforms": [
+      "windows"
+    ],
+    "license": "free",
+    "url": "https://www.hwinfo.com/download/",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "CPU-Z",
+      "Speccy"
+    ],
+    "tags": [
+      "معلومات نظام",
+      "مراقبة",
+      "مجاني"
+    ],
+    "slug": "hwinfo"
+  },
+  {
+    "name": "IrfanView",
+    "nameAr": "إرفان فيو",
+    "category": "windows",
+    "desc": "عارض صور خفيف وسريع يدعم مئات الصيغ مع تحويل ومعالجة دفعية وشرائح عرض.",
+    "platforms": [
+      "windows"
+    ],
+    "license": "free",
+    "url": "https://www.irfanview.com/main_download_engl.htm",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-01",
+    "alternatives": [
+      "FastStone Image Viewer",
+      "XnView"
+    ],
+    "tags": [
+      "عارض صور",
+      "محوّل",
+      "صور"
+    ],
+    "slug": "irfanview"
+  },
+  {
+    "name": "Paint.NET",
+    "nameAr": "بينت دوت نت",
+    "category": "windows",
+    "desc": "محرر صور مجاني لويندوز بواجهة بسيطة ودعم طبقات وإضافات كثيرة.",
+    "platforms": [
+      "windows"
+    ],
+    "license": "free",
+    "url": "https://www.getpaint.net/download.html",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "GIMP",
+      "Photoshop"
+    ],
+    "tags": [
+      "صور",
+      "محرر",
+      "ويندوز"
+    ],
+    "slug": "paint-net"
+  },
+  {
+    "name": "qBittorrent",
+    "nameAr": "كي بيتورنت",
+    "category": "windows",
+    "desc": "عميل تورنت مفتوح المصدر خفيف وخالٍ من الإعلانات لويندوز ولينكس.",
+    "platforms": [
+      "windows",
+      "linux",
+      "mac"
+    ],
+    "license": "open-source",
+    "url": "https://www.qbittorrent.org/download.php",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "Transmission"
+    ],
+    "tags": [
+      "تورنت",
+      "تحميل",
+      "مفتوح المصدر"
+    ],
+    "slug": "qbittorrent"
+  },
+  {
+    "name": "Recuva",
+    "nameAr": "ريكوفا",
+    "category": "windows",
+    "desc": "أداة مجانية لاستعادة الملفات المحذوفة من القرص الصلب وبطاقات الذاكرة.",
+    "platforms": [
+      "windows"
+    ],
+    "license": "freemium",
+    "url": "https://www.ccleaner.com/recuva",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [],
+    "tags": [
+      "استعادة",
+      "ملفات",
+      "مجاني"
+    ],
+    "slug": "recuva"
+  },
+  {
+    "name": "ShareX",
+    "nameAr": "شير إكس",
+    "category": "windows",
+    "desc": "أداة لقطات شاشة وتسجيل شاشة مفتوحة المصدر مع تحرير ورفع تلقائي ونقر مسارات متعددة.",
+    "platforms": [
+      "windows"
+    ],
+    "license": "open-source",
+    "url": "https://github.com/ShareX/ShareX/releases/latest",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-01",
+    "alternatives": [
+      "Greenshot"
+    ],
+    "tags": [
+      "لقطات شاشة",
+      "تسجيل",
+      "مشاركة"
+    ],
+    "slug": "sharex"
+  },
+  {
+    "name": "Speccy",
+    "nameAr": "سبكي",
+    "category": "windows",
+    "desc": "أداة من Piriform لعرض مواصفات الجهاز بشكل مبسط وجذاب.",
+    "platforms": [
+      "windows"
+    ],
+    "license": "freemium",
+    "url": "https://www.ccleaner.com/speccy",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "CPU-Z"
+    ],
+    "tags": [
+      "معلومات نظام",
+      "مواصفات",
+      "مجاني"
+    ],
+    "slug": "speccy"
+  },
+  {
+    "name": "SumatraPDF",
+    "nameAr": "سوماترا PDF",
+    "category": "windows",
+    "desc": "قارئ PDF وكتب إلكترونية مفتوح المصدر بسيط وسريع جداً وخفيف على جهازك.",
+    "platforms": [
+      "windows"
+    ],
+    "license": "open-source",
+    "url": "https://github.com/sumatrapdfreader/sumatrapdf/releases/latest",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-01",
+    "alternatives": [
+      "Foxit Reader"
+    ],
+    "tags": [
+      "قارئ PDF",
+      "خفيف",
+      "كتب"
+    ],
+    "slug": "sumatrapdf"
+  },
+  {
+    "name": "TreeSize Free",
+    "nameAr": "تري سايز فري",
+    "category": "windows",
+    "desc": "أداة مجانية لتحليل مساحة الأقراص وعرض أحجام المجلدات شجرياً.",
+    "platforms": [
+      "windows"
+    ],
+    "license": "free",
+    "url": "https://www.jam-software.com/treesize_free",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "WinDirStat",
+      "WizTree"
+    ],
+    "tags": [
+      "أقراص",
+      "مساحة",
+      "تحليل"
+    ],
+    "slug": "treesize-free"
+  },
+  {
+    "name": "WinDirStat",
+    "nameAr": "وينديرستات",
+    "category": "windows",
+    "desc": "محلّل مساحة الأقراص مفتوح المصدر يعرض خريطة شجرية للاستخدام تكشف الملفات الكبيرة والمجلدات الثقيلة.",
+    "platforms": [
+      "windows"
+    ],
+    "license": "open-source",
+    "url": "https://windirstat.net/download.html",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-01",
+    "alternatives": [
+      "WizTree",
+      "TreeSize"
+    ],
+    "tags": [
+      "أقراص",
+      "مساحة",
+      "تنظيف"
+    ],
+    "slug": "windirstat"
+  },
+  {
+    "name": "WinRAR",
+    "nameAr": "وين رار",
+    "category": "windows",
+    "desc": "أداة ضغط وفك ضغط ملفات شهيرة تدعم RAR وZIP وصيغ كثيرة.",
+    "platforms": [
+      "windows"
+    ],
+    "license": "freemium",
+    "url": "https://www.winrar.com/download",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "7-Zip"
+    ],
+    "tags": [
+      "ضغط",
+      "أرشيف",
+      "ويندوز"
+    ],
+    "slug": "winrar"
+  },
+  {
+    "name": "WizTree",
+    "nameAr": "ويز تري",
+    "category": "windows",
+    "desc": "محلل مساحة أقراص سريع جداً لويندوز يعرض الملفات الأكبر فوراً.",
+    "platforms": [
+      "windows"
+    ],
+    "license": "free",
+    "url": "https://wiztree.en.softonic.com/",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "WinDirStat",
+      "TreeSize"
+    ],
+    "tags": [
+      "أقراص",
+      "مساحة",
+      "تحليل"
+    ],
+    "slug": "wiztree"
+  },
+  {
+    "name": "Avast Free Antivirus",
+    "nameAr": "أفاست فري أنتي فيرس",
+    "category": "security",
+    "desc": "مضاد فيروسات مجاني شهير بحماية فورية وفحص ذكي للتهديدات.",
+    "platforms": [
+      "windows",
+      "mac",
+      "android",
+      "ios"
+    ],
+    "license": "freemium",
+    "url": "https://www.avast.com/free-antivirus-download",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "AVG",
+      "Kaspersky"
+    ],
+    "tags": [
+      "أمان",
+      "فيروسات",
+      "مجاني"
+    ],
+    "slug": "avast-free-antivirus"
+  },
+  {
+    "name": "AVG AntiVirus Free",
+    "nameAr": "إيه في جي فري",
+    "category": "security",
+    "desc": "مضاد فيروسات مجاني خفيف يحمي جهازك من البرمجيات الخبيثة.",
+    "platforms": [
+      "windows",
+      "mac",
+      "android"
+    ],
+    "license": "freemium",
+    "url": "https://www.avg.com/en-us/free-antivirus-download",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "Avast",
+      "Kaspersky"
+    ],
+    "tags": [
+      "أمان",
+      "فيروسات",
+      "مجاني"
+    ],
+    "slug": "avg-antivirus-free"
+  },
+  {
+    "name": "Bitdefender",
+    "nameAr": "بيت ديفندر",
+    "category": "security",
+    "desc": "حزمة حماية شاملة من Bitdefender ضد الفيروسات والبرمجيات الخبيثة.",
+    "platforms": [
+      "windows",
+      "mac",
+      "android",
+      "ios"
+    ],
+    "license": "freemium",
+    "url": "https://www.bitdefender.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "Kaspersky",
+      "Malwarebytes"
+    ],
+    "tags": [
+      "أمان",
+      "حماية",
+      "فيروسات"
+    ],
+    "slug": "bitdefender"
+  },
+  {
+    "name": "Bitwarden",
+    "nameAr": "بيتووردن",
+    "category": "security",
+    "desc": "مدير كلمات مرور مفتوح المصدر يخزّن كلمات سرك مشفّرة ويقتننها على كل أجهزتك مع مزامنة سحابية.",
+    "platforms": [
+      "windows",
+      "android",
+      "mac",
+      "linux",
+      "ios",
+      "web"
+    ],
+    "license": "freemium",
+    "url": "https://bitwarden.com/download/",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-01",
+    "alternatives": [
+      "KeePassXC"
+    ],
+    "tags": [
+      "كلمات مرور",
+      "خزنة",
+      "خصوصية"
+    ],
+    "slug": "bitwarden"
+  },
+  {
+    "name": "Brave Browser",
+    "nameAr": "متصفح بريف",
+    "category": "security",
+    "desc": "متصفح مجاني يحجب الإعلات والمتتبعين افتراضياً ويحمي خصوصيتك ويسرّع التصفح.",
+    "platforms": [
+      "windows",
+      "android",
+      "mac",
+      "linux",
+      "ios"
+    ],
+    "license": "free",
+    "url": "https://brave.com/download/",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-01",
+    "alternatives": [
+      "Tor Browser",
+      "Firefox"
+    ],
+    "tags": [
+      "متصفح",
+      "حجب إعلانات",
+      "خصوصية"
+    ],
+    "slug": "brave-browser"
+  },
+  {
+    "name": "ExpressVPN",
+    "nameAr": "إكسبرس VPN",
+    "category": "security",
+    "desc": "خدمة VPN سريعة وموثوقة بخوادم في كثير من الدول.",
+    "platforms": [
+      "windows",
+      "mac",
+      "linux",
+      "android",
+      "ios"
+    ],
+    "license": "paid",
+    "url": "https://www.expressvpn.com/download",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "NordVPN",
+      "Proton VPN"
+    ],
+    "tags": [
+      "VPN",
+      "خصوصية",
+      "أمان"
+    ],
+    "slug": "expressvpn"
+  },
+  {
+    "name": "Kaspersky Free",
+    "nameAr": "كاسبرسكي فري",
+    "category": "security",
+    "desc": "مضاد فيروسات مجاني من كاسبرسكي بحماية أساسية في الوقت الفعلي.",
+    "platforms": [
+      "windows",
+      "mac",
+      "android",
+      "ios"
+    ],
+    "license": "freemium",
+    "url": "https://www.kaspersky.com/downloads/free-antivirus",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "Avast",
+      "AVG"
+    ],
+    "tags": [
+      "أمان",
+      "فيروسات",
+      "مجاني"
+    ],
+    "slug": "kaspersky-free"
+  },
+  {
+    "name": "KeePass",
+    "nameAr": "كيب باس",
+    "category": "security",
+    "desc": "مدير كلمات مرور محلي مفتوح المصدر خفيف وقوي لأنظمة ويندوز.",
+    "platforms": [
+      "windows"
+    ],
+    "license": "open-source",
+    "url": "https://keepass.info/download.html",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "KeePassXC",
+      "Bitwarden"
+    ],
+    "tags": [
+      "كلمات مرور",
+      "أمان",
+      "محلي"
+    ],
+    "slug": "keepass"
+  },
+  {
+    "name": "KeePassXC",
+    "nameAr": "كيباس إكس سي",
+    "category": "security",
+    "desc": "مدير كلمات مرور محلي مفتوح المصدر يحفظ قاعدة بياناتك مشفّرة على جهازك دون أي سحابة.",
+    "platforms": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "license": "open-source",
+    "url": "https://keepassxc.org/download/",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-01",
+    "alternatives": [
+      "Bitwarden",
+      "KeePass"
+    ],
+    "tags": [
+      "كلمات مرور",
+      "محلي",
+      "تشفير"
+    ],
+    "slug": "keepassxc"
+  },
+  {
+    "name": "Malwarebytes",
+    "nameAr": "مالويربايتس",
+    "category": "security",
+    "desc": "أداة حماية من البرمجيات الخبيثة تكشف البرمجيات الفدية وبرامج التجسس وتزيل الإصابات الموجودة.",
+    "platforms": [
+      "windows",
+      "mac",
+      "android",
+      "ios"
+    ],
+    "license": "freemium",
+    "url": "https://www.malwarebytes.com/mwb-download",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-01",
+    "alternatives": [
+      "Kaspersky"
+    ],
+    "tags": [
+      "مكافحة فيروسات",
+      "حماية",
+      "فحص"
+    ],
+    "slug": "malwarebytes"
+  },
+  {
+    "name": "NordVPN",
+    "nameAr": "نورد VPN",
+    "category": "security",
+    "desc": "خدمة VPN شهيرة بسرعات عالية وخوادم في كثير من الدول.",
+    "platforms": [
+      "windows",
+      "mac",
+      "android",
+      "ios",
+      "linux"
+    ],
+    "license": "paid",
+    "url": "https://nordvpn.com/download/",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "Proton VPN",
+      "ExpressVPN"
+    ],
+    "tags": [
+      "VPN",
+      "خصوصية",
+      "أمان"
+    ],
+    "slug": "nordvpn"
+  },
+  {
+    "name": "Proton VPN",
+    "nameAr": "بروتون VPN",
+    "category": "security",
+    "desc": "شبكة خاصة افتراضية موثوقة مفتوحة المصدر من سويسرا بسياسة عدم تسجيل البيانات وخيار مجاني.",
+    "platforms": [
+      "windows",
+      "mac",
+      "android",
+      "linux",
+      "ios"
+    ],
+    "license": "freemium",
+    "url": "https://protonvpn.com/download",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-01",
+    "alternatives": [
+      "Mullvad VPN",
+      "Windscribe"
+    ],
+    "tags": [
+      "VPN",
+      "خصوصية",
+      "تشفير"
+    ],
+    "slug": "proton-vpn"
+  },
+  {
+    "name": "Surfshark",
+    "nameAr": "سيرف شارك",
+    "category": "security",
+    "desc": "خدمة VPN اقتصادية تدعم أجهزة غير محدودة وخوادم عالمية.",
+    "platforms": [
+      "windows",
+      "mac",
+      "linux",
+      "android",
+      "ios"
+    ],
+    "license": "paid",
+    "url": "https://surfshark.com/download",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "NordVPN",
+      "Proton VPN"
+    ],
+    "tags": [
+      "VPN",
+      "خصوصية",
+      "أمان"
+    ],
+    "slug": "surfshark"
+  },
+  {
+    "name": "Tor Browser",
+    "nameAr": "متصفح تور",
+    "category": "security",
+    "desc": "متصفح مفتوح المصدر يحمي خصوصيتك وهوويتك عبر شبكة تور ويتخفى عن التتبع ويعبر حواجز الرقابة.",
+    "platforms": [
+      "windows",
+      "mac",
+      "android",
+      "linux"
+    ],
+    "license": "open-source",
+    "url": "https://www.torproject.org/download/",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-01",
+    "alternatives": [
+      "Brave Browser",
+      "Firefox"
+    ],
+    "tags": [
+      "متصفح",
+      "خصوصية",
+      "إخفاء هوية"
+    ],
+    "slug": "tor-browser"
+  },
+  {
+    "name": "VeraCrypt",
+    "nameAr": "فيراكريب",
+    "category": "security",
+    "desc": "برنامج تشفير الأقراص والملفات مفتوح المصدر ينشئ أحواضاً مشفّرة لحماية بياناتك الحساسة.",
+    "platforms": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "license": "open-source",
+    "url": "https://www.veracrypt.fr/en/Downloads.html",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-01",
+    "alternatives": [
+      "BitLocker"
+    ],
+    "tags": [
+      "تشفير",
+      "قرص",
+      "خصوصية"
+    ],
+    "slug": "veracrypt"
+  },
+  {
+    "name": "Adobe Acrobat Reader",
+    "nameAr": "أدوبي أكروبات ريدر",
+    "category": "productivity",
+    "desc": "المشغّل الرسمي لملفات PDF: عرض وقراءة وتعبئة النماذج وتوقيعها والتعليق عليها مجاناً.",
+    "platforms": [
+      "windows",
+      "mac",
+      "android",
+      "ios",
+      "web"
+    ],
+    "license": "freemium",
+    "url": "https://www.adobe.com/acrobat/pdf-reader.html",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-01",
+    "alternatives": [
+      "SumatraPDF",
+      "WPS Office"
+    ],
+    "tags": [
+      "PDF",
+      "قراءة",
+      "توقيع"
+    ],
+    "slug": "adobe-acrobat-reader"
+  },
+  {
+    "name": "Asana",
+    "nameAr": "أسانا",
+    "category": "productivity",
+    "desc": "منصة إدارة مشاريع ومهام للفرق مع تتبع التقدم والجداول الزمنية.",
+    "platforms": [
+      "web",
+      "windows",
+      "mac",
+      "ios",
+      "android"
+    ],
+    "license": "freemium",
+    "url": "https://asana.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "Trello",
+      "Todoist"
+    ],
+    "tags": [
+      "مشاريع",
+      "مهام",
+      "فرق"
+    ],
+    "slug": "asana"
+  },
+  {
+    "name": "ClickUp",
+    "nameAr": "كليك أب",
+    "category": "productivity",
+    "desc": "منصة إدارة مهام ومشاريع متكاملة مع تتبع وقت وتقارير وأهداف.",
+    "platforms": [
+      "web",
+      "windows",
+      "mac",
+      "ios",
+      "android"
+    ],
+    "license": "freemium",
+    "url": "https://clickup.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "Asana",
+      "Trello",
+      "Todoist"
+    ],
+    "tags": [
+      "مهام",
+      "مشاريع",
+      "تعاون"
+    ],
+    "slug": "clickup"
+  },
+  {
+    "name": "Evernote",
+    "nameAr": "إيفرنوت",
+    "category": "productivity",
+    "desc": "تطبيق تدوين ملاحظات شهير يدعم النصوص والصور والصوت والمزامنة.",
+    "platforms": [
+      "web",
+      "windows",
+      "mac",
+      "ios",
+      "android"
+    ],
+    "license": "freemium",
+    "url": "https://www.evernote.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "OneNote",
+      "Obsidian"
+    ],
+    "tags": [
+      "ملاحظات",
+      "تدوين",
+      "تنظيم"
+    ],
+    "slug": "evernote"
+  },
+  {
+    "name": "Google Docs",
+    "nameAr": "جوجل دوكس",
+    "category": "productivity",
+    "desc": "محرر مستندات مجاني من Google يعمل في المتصفح مع تعاون مباشر.",
+    "platforms": [
+      "web",
+      "android",
+      "ios"
+    ],
+    "license": "free",
+    "url": "https://docs.google.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "OnlyOffice",
+      "LibreOffice"
+    ],
+    "tags": [
+      "مستندات",
+      "تعاون",
+      "مجاني"
+    ],
+    "slug": "google-docs"
+  },
+  {
+    "name": "Google Translate",
+    "nameAr": "ترجمة جوجل",
+    "category": "productivity",
+    "desc": "خدمة ترجمة فورية من جوجل تدعم أكثر من مئة لغة للنصوص والصور والمواقع والملفات.",
+    "platforms": [
+      "web",
+      "android",
+      "ios"
+    ],
+    "license": "free",
+    "url": "https://translate.google.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-01",
+    "alternatives": [],
+    "tags": [
+      "ترجمة",
+      "لغات",
+      "نصوص"
+    ],
+    "slug": "google-translate"
+  },
+  {
+    "name": "LibreOffice",
+    "nameAr": "ليبر أوفيس",
+    "category": "productivity",
+    "desc": "حزمة مكتبية مفتوحة المصدر كاملة: محرر نصوص وعروض وجداول وقواعد بيانات، متوافقة مع صيغ Office.",
+    "platforms": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "license": "open-source",
+    "url": "https://www.libreoffice.org/download/download-libreoffice/",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-01",
+    "alternatives": [
+      "ONLYOFFICE",
+      "WPS Office"
+    ],
+    "tags": [
+      "مكتب",
+      "مستندات",
+      "جداول"
+    ],
+    "slug": "libreoffice"
+  },
+  {
+    "name": "Microsoft OneNote",
+    "nameAr": "ون نوت",
+    "category": "productivity",
+    "desc": "دفتر ملاحظات رقمي من مايكروسوفت مجاني على كل المنصات.",
+    "platforms": [
+      "web",
+      "windows",
+      "mac",
+      "ios",
+      "android"
+    ],
+    "license": "free",
+    "url": "https://www.onenote.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "Evernote",
+      "Obsidian"
+    ],
+    "tags": [
+      "ملاحظات",
+      "مايكروسوفت",
+      "مجاني"
+    ],
+    "slug": "microsoft-onenote"
+  },
+  {
+    "name": "Obsidian",
+    "nameAr": "أوبسيديان",
+    "category": "productivity",
+    "desc": "تطبيق ملاحظات يعمل على ملفات Markdown محلياً، مع روابط ذهنية بين الملاحظات وإضافات قابلة للتوسعة.",
+    "platforms": [
+      "windows",
+      "mac",
+      "linux",
+      "android",
+      "ios"
+    ],
+    "license": "freemium",
+    "url": "https://github.com/obsidianmd/obsidian-releases/releases/latest",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-01",
+    "alternatives": [
+      "LibreOffice",
+      "ONLYOFFICE"
+    ],
+    "tags": [
+      "ملاحظات",
+      "كتابة",
+      "تنظيم"
+    ],
+    "slug": "obsidian"
+  },
+  {
+    "name": "ONLYOFFICE",
+    "nameAr": "أونلي أوفيس",
+    "category": "productivity",
+    "desc": "حزمة مكتبية مفتوحة المصدر بواجهة حديثة تُعدّل مستندات Office بدقة عالية وتدعم التحرير التعاوني.",
+    "platforms": [
+      "windows",
+      "mac",
+      "linux",
+      "android",
+      "ios"
+    ],
+    "license": "open-source",
+    "url": "https://github.com/ONLYOFFICE/DesktopEditors/releases/latest",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-01",
+    "alternatives": [
+      "LibreOffice",
+      "WPS Office"
+    ],
+    "tags": [
+      "مكتب",
+      "مستندات",
+      "توافق"
+    ],
+    "slug": "onlyoffice"
+  },
+  {
+    "name": "Todoist",
+    "nameAr": "تودوست",
+    "category": "productivity",
+    "desc": "مدير مهام بسيط وسريع لتنظيم الأعمال اليومية والمشاريع مع تذكيرات ومزامنة بين الأجهزة.",
+    "platforms": [
+      "windows",
+      "mac",
+      "linux",
+      "android",
+      "ios",
+      "web"
+    ],
+    "license": "freemium",
+    "url": "https://todoist.com/downloads",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-01",
+    "alternatives": [
+      "Obsidian"
+    ],
+    "tags": [
+      "مهام",
+      "تنظيم",
+      "إنتاجية"
+    ],
+    "slug": "todoist"
+  },
+  {
+    "name": "Trello",
+    "nameAr": "تريلو",
+    "category": "productivity",
+    "desc": "أداة إدارة مهام بالبطاقات واللوحات بسيطة وفعالة للفرق.",
+    "platforms": [
+      "web",
+      "windows",
+      "mac",
+      "ios",
+      "android"
+    ],
+    "license": "freemium",
+    "url": "https://trello.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "Asana",
+      "Todoist"
+    ],
+    "tags": [
+      "مهام",
+      "لوحات",
+      "فرق"
+    ],
+    "slug": "trello"
+  },
+  {
+    "name": "WPS Office",
+    "nameAr": "دبليو بي إس أوفيس",
+    "category": "productivity",
+    "desc": "حزمة مكتبية خفيفة تجمع المعالج والجداول والعروض وPDF مع دعم كامل لصيغ مايكروسوفت أوفيس.",
+    "platforms": [
+      "windows",
+      "mac",
+      "linux",
+      "android",
+      "ios"
+    ],
+    "license": "freemium",
+    "url": "https://www.wps.com/download/",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-01",
+    "alternatives": [
+      "LibreOffice",
+      "ONLYOFFICE"
+    ],
+    "tags": [
+      "مكتب",
+      "مستندات",
+      "PDF"
+    ],
+    "slug": "wps-office"
+  },
+  {
+    "name": "Discord",
+    "nameAr": "ديسكورد",
+    "category": "communication",
+    "desc": "منصة مجتمعات وغرف صوت وفيديو شائعة لدى اللاعبين والمطورين ومجتمعات المصادر المفتوحة.",
+    "platforms": [
+      "windows",
+      "mac",
+      "linux",
+      "android",
+      "ios",
+      "web"
+    ],
+    "license": "freemium",
+    "url": "https://discord.com/download",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-01",
+    "alternatives": [
+      "Slack",
+      "Telegram"
+    ],
+    "tags": [
+      "مجتمعات",
+      "صوت",
+      "قنوات"
+    ],
+    "slug": "discord"
+  },
+  {
+    "name": "Gmail",
+    "nameAr": "جيميل",
+    "category": "communication",
+    "desc": "خدمة البريد الإلكتروني من جوجل بواجهة ويب قوية، وفرز ذكي وبحث فوري ومساحة تخزين كبيرة.",
+    "platforms": [
+      "web",
+      "android",
+      "ios"
+    ],
+    "license": "free",
+    "url": "https://mail.google.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-01",
+    "alternatives": [],
+    "tags": [
+      "بريد",
+      "ويب",
+      "رسائل"
+    ],
+    "slug": "gmail"
+  },
+  {
+    "name": "Google Meet",
+    "nameAr": "جوجل ميت",
+    "category": "communication",
+    "desc": "خدمة اجتماعات فيديو من Google مدمجة مع Workspace وسهلة الاستخدام.",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "license": "freemium",
+    "url": "https://meet.google.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "Zoom",
+      "Teams"
+    ],
+    "tags": [
+      "اجتماعات",
+      "فيديو",
+      "جوجل"
+    ],
+    "slug": "google-meet"
+  },
+  {
+    "name": "LINE",
+    "nameAr": "لاين",
+    "category": "communication",
+    "desc": "تطبيق مراسلة شهير في آسيا مع مكالمات ومدفوعات وملصقات.",
+    "platforms": [
+      "web",
+      "windows",
+      "mac",
+      "ios",
+      "android"
+    ],
+    "license": "free",
+    "url": "https://line.me/en/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "WhatsApp",
+      "Telegram"
+    ],
+    "tags": [
+      "مراسلة",
+      "مكالمات",
+      "آسيا"
+    ],
+    "slug": "line"
+  },
+  {
+    "name": "Messenger",
+    "nameAr": "مسنجر",
+    "category": "communication",
+    "desc": "تطبيق مراسلة فورية من Meta مجاني مع مكالمات صوتية ومرئية.",
+    "platforms": [
+      "web",
+      "windows",
+      "mac",
+      "ios",
+      "android"
+    ],
+    "license": "free",
+    "url": "https://www.messenger.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "WhatsApp",
+      "Telegram"
+    ],
+    "tags": [
+      "مراسلة",
+      "مكالمات",
+      "مجاني"
+    ],
+    "slug": "messenger"
+  },
+  {
+    "name": "Microsoft Teams",
+    "nameAr": "مايكروسوفت تيمز",
+    "category": "communication",
+    "desc": "منصة تعاون واجتماعات من مايكروسوفت مدمجة مع Office 365.",
+    "platforms": [
+      "web",
+      "windows",
+      "mac",
+      "ios",
+      "android"
+    ],
+    "license": "freemium",
+    "url": "https://www.microsoft.com/microsoft-teams/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "Slack",
+      "Zoom"
+    ],
+    "tags": [
+      "اجتماعات",
+      "تعاون",
+      "مايكروسوفت"
+    ],
+    "slug": "microsoft-teams"
+  },
+  {
+    "name": "Signal",
+    "nameAr": "سيغنال",
+    "category": "communication",
+    "desc": "مراسلة خاصة بتشفير افتراضي كامل، خالية من الإعلانات وتديرها مؤسسة غير ربحية مفتوحة المصدر.",
+    "platforms": [
+      "windows",
+      "mac",
+      "linux",
+      "android",
+      "ios"
+    ],
+    "license": "open-source",
+    "url": "https://signal.org/download/",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-01",
+    "alternatives": [
+      "Telegram",
+      "WhatsApp"
+    ],
+    "tags": [
+      "مراسلة",
+      "خصوصية",
+      "تشفير"
+    ],
+    "slug": "signal"
+  },
+  {
+    "name": "Skype",
+    "nameAr": "سكايب",
+    "category": "communication",
+    "desc": "تطبيق مكالمات صوتية ومرئية قدير ومجاني عبر الإنترنت.",
+    "platforms": [
+      "web",
+      "windows",
+      "mac",
+      "ios",
+      "android"
+    ],
+    "license": "free",
+    "url": "https://www.skype.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "Zoom",
+      "Google Meet"
+    ],
+    "tags": [
+      "مكالمات",
+      "فيديو",
+      "مجاني"
+    ],
+    "slug": "skype"
+  },
+  {
+    "name": "Slack",
+    "nameAr": "سلَك",
+    "category": "communication",
+    "desc": "منصة تواصل عمل تجمع الفريق في قنوات منظمة مع مكالمات فيديو وتكامل مع الأدوات.",
+    "platforms": [
+      "windows",
+      "mac",
+      "linux",
+      "android",
+      "ios",
+      "web"
+    ],
+    "license": "freemium",
+    "url": "https://slack.com/downloads",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-01",
+    "alternatives": [
+      "Discord",
+      "Zoom"
+    ],
+    "tags": [
+      "تعاون",
+      "فريق",
+      "قنوات"
+    ],
+    "slug": "slack"
+  },
+  {
+    "name": "Telegram",
+    "nameAr": "تيليجرام",
+    "category": "communication",
+    "desc": "تطبيق مراسلة سحابي سريع يدعم المجموعات والقنوات ومشاركة الملفات والمكالمات، وعملاؤه مفتوحو المصدر.",
+    "platforms": [
+      "windows",
+      "mac",
+      "linux",
+      "android",
+      "ios",
+      "web"
+    ],
+    "license": "open-source",
+    "url": "https://telegram.org/apps",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-01",
+    "alternatives": [
+      "Signal",
+      "WhatsApp"
+    ],
+    "tags": [
+      "مراسلة",
+      "قنوات",
+      "مكالمات"
+    ],
+    "slug": "telegram"
+  },
+  {
+    "name": "Viber",
+    "nameAr": "فايبر",
+    "category": "communication",
+    "desc": "تطبيق مراسلة ومكالمات صوتية ومرئية مجاني مع مجتمعات وروبوتات.",
+    "platforms": [
+      "web",
+      "windows",
+      "mac",
+      "ios",
+      "android"
+    ],
+    "license": "free",
+    "url": "https://www.viber.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "WhatsApp",
+      "Telegram"
+    ],
+    "tags": [
+      "مراسلة",
+      "مكالمات",
+      "مجاني"
+    ],
+    "slug": "viber"
+  },
+  {
+    "name": "WhatsApp",
+    "nameAr": "واتساب",
+    "category": "communication",
+    "desc": "تطبيق المراسلة الأوسع انتشاراً في العالم، يدعم المكالمات الصوتية والفيديو والمجموعات والحالات.",
+    "platforms": [
+      "windows",
+      "mac",
+      "android",
+      "ios",
+      "web"
+    ],
+    "license": "free",
+    "url": "https://www.whatsapp.com/download",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-01",
+    "alternatives": [
+      "Telegram",
+      "Signal"
+    ],
+    "tags": [
+      "مراسلة",
+      "مكالمات",
+      "مجموعات"
+    ],
+    "slug": "whatsapp"
+  },
+  {
+    "name": "Zoom",
+    "nameAr": "زوم",
+    "category": "communication",
+    "desc": "منصة اجتماعات الفيديو الأكثر شيوعاً: غرف اجتماعات وتسجيل ومؤتمرات ومحادثة فورية للفرق.",
+    "platforms": [
+      "windows",
+      "mac",
+      "linux",
+      "android",
+      "ios",
+      "web"
+    ],
+    "license": "freemium",
+    "url": "https://zoom.us/download",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-01",
+    "alternatives": [
+      "Slack",
+      "Discord"
+    ],
+    "tags": [
+      "فيديو",
+      "اجتماعات",
+      "مؤتمرات"
+    ],
+    "slug": "zoom"
+  },
+  {
+    "name": "AIMP",
+    "nameAr": "إيه آي إم بي",
+    "category": "media",
+    "desc": "مشغل موسيقى خفيف وسريع يدعم صيغ كثيرة ومعادل صوتي متقدم.",
+    "platforms": [
+      "windows",
+      "android"
+    ],
+    "license": "free",
+    "url": "https://www.aimp.ru/",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "foobar2000",
+      "MusicBee"
+    ],
+    "tags": [
+      "موسيقى",
+      "مشغل",
+      "خفيف"
+    ],
+    "slug": "aimp"
+  },
+  {
+    "name": "Audacity",
+    "nameAr": "أوداسِيتي",
+    "category": "media",
+    "desc": "محرّر صوت مفتوح المصدر للتسجيل والقصّ والتنعيم وإزالة الضجيج وإضافة المؤثرات مع تصدير جميع الصيغ الصوتية.",
+    "platforms": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "license": "open-source",
+    "url": "https://github.com/audacity/audacity/releases/latest",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-01",
+    "alternatives": [
+      "OBS Studio"
+    ],
+    "tags": [
+      "محرر",
+      "صوت",
+      "تسجيل"
+    ],
+    "slug": "audacity"
+  },
+  {
+    "name": "Bandicam",
+    "nameAr": "بانديكام",
+    "category": "media",
+    "desc": "برنامج تسجيل شاشة وألعاب احترافي مع ضغط عالي الجودة.",
+    "platforms": [
+      "windows"
+    ],
+    "license": "freemium",
+    "url": "https://www.bandicam.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "OBS Studio"
+    ],
+    "tags": [
+      "تسجيل",
+      "شاشة",
+      "ألعاب"
+    ],
+    "slug": "bandicam"
+  },
+  {
+    "name": "foobar2000",
+    "nameAr": "فوبار2000",
+    "category": "media",
+    "desc": "مشغّل صوت خفيف قابل للتخصيص بالكامل يشغّل كل الصيغ الشائعة مع النسخ المقطوع بلا فجوات ومحوّل صوتي ودعم مكتبات الموسيقى.",
+    "platforms": [
+      "windows",
+      "mac",
+      "android",
+      "ios"
+    ],
+    "license": "free",
+    "url": "https://www.foobar2000.org/",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-01",
+    "alternatives": [
+      "mpv",
+      "VLC media player"
+    ],
+    "tags": [
+      "مشغل",
+      "صوت",
+      "موسيقى"
+    ],
+    "slug": "foobar2000"
+  },
+  {
+    "name": "HandBrake",
+    "nameAr": "هاندبريك",
+    "category": "media",
+    "desc": "محوّل فيديو مفتوح المصدر يعيد ترميز ملفات الفيديو من أي صيغة إلى صيغ حديثة مدعومة مع إعدادات جاهزة وقوالب.",
+    "platforms": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "license": "open-source",
+    "url": "https://github.com/HandBrake/HandBrake/releases/latest",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-01",
+    "alternatives": [
+      "VLC media player",
+      "mpv"
+    ],
+    "tags": [
+      "تحويل",
+      "فيديو",
+      "ترميز"
+    ],
+    "slug": "handbrake"
+  },
+  {
+    "name": "Kodi",
+    "nameAr": "كودي",
+    "category": "media",
+    "desc": "مركز وسائط مفتوح المصدر يحول جهازك إلى منصة ترفيه متكاملة.",
+    "platforms": [
+      "windows",
+      "mac",
+      "linux",
+      "android",
+      "ios"
+    ],
+    "license": "open-source",
+    "url": "https://kodi.tv/download/",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "Plex"
+    ],
+    "tags": [
+      "وسائط",
+      "مركز",
+      "مفتوح المصدر"
+    ],
+    "slug": "kodi"
+  },
+  {
+    "name": "mpv",
+    "nameAr": "مشغّل mpv",
+    "category": "media",
+    "desc": "مشغّل وسائط خفيف وسريع مفتوح المصدر يشغّل معظم صيغ الفيديو والصوت والترجمات عبر واجهة بسيطة وتحكّم بتخرّج GPU عالي الجودة.",
+    "platforms": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "license": "open-source",
+    "url": "https://github.com/mpv-player/mpv/releases/latest",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-01",
+    "alternatives": [
+      "VLC media player",
+      "foobar2000"
+    ],
+    "tags": [
+      "مشغل",
+      "وسائط",
+      "فيديو"
+    ],
+    "slug": "mpv"
+  },
+  {
+    "name": "MusicBee",
+    "nameAr": "ميوزك بي",
+    "category": "media",
+    "desc": "مشغل موسيقى احترافي لويندوز مع إدارة مكتبة وسماعات ودعم صيغ كثيرة.",
+    "platforms": [
+      "windows"
+    ],
+    "license": "free",
+    "url": "https://getmusicbee.com/",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "foobar2000"
+    ],
+    "tags": [
+      "موسيقى",
+      "مشغل",
+      "ويندوز"
+    ],
+    "slug": "musicbee"
+  },
+  {
+    "name": "OBS Studio",
+    "nameAr": "استوديو OBS",
+    "category": "media",
+    "desc": "برنامج بث وتسجيل شاشة مفتوح المصدر يسجّل الشاشة والصوت والكاميرا ويُبثّ مباشرةً على منصات البث بمشاهد وتحويلات.",
+    "platforms": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "license": "open-source",
+    "url": "https://github.com/obsproject/obs-studio/releases/latest",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-01",
+    "alternatives": [
+      "Audacity"
+    ],
+    "tags": [
+      "بث",
+      "تسجيل",
+      "شاشة"
+    ],
+    "slug": "obs-studio"
+  },
+  {
+    "name": "Plex",
+    "nameAr": "بلكس",
+    "category": "media",
+    "desc": "خزنة ومشغّل وسائط ينظّم مكتبتك الشخصية من الأفلام والمسلسلات والموسيقى ويُبثّها على جميع أجهزتك مع مشاهدة مجانية للمحتوى.",
+    "platforms": [
+      "windows",
+      "mac",
+      "linux",
+      "android",
+      "ios",
+      "web"
+    ],
+    "license": "freemium",
+    "url": "https://www.plex.tv/media-server-downloads/",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-01",
+    "alternatives": [
+      "Spotify",
+      "mpv"
+    ],
+    "tags": [
+      "وسائط",
+      "بث",
+      "مكتبة"
+    ],
+    "slug": "plex"
+  },
+  {
+    "name": "PotPlayer",
+    "nameAr": "بوت بلاير",
+    "category": "media",
+    "desc": "مشغل فيديو قوي لويندوز بدعم واسع للصيغ وخيارات تخصيص كثيرة.",
+    "platforms": [
+      "windows"
+    ],
+    "license": "free",
+    "url": "https://potplayer.daum.net/",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "VLC",
+      "mpv"
+    ],
+    "tags": [
+      "فيديو",
+      "مشغل",
+      "ويندوز"
+    ],
+    "slug": "potplayer"
+  },
+  {
+    "name": "Spotify",
+    "nameAr": "سبوتيفاي",
+    "category": "media",
+    "desc": "خدمة بث موسيقي تتيح الاستماع لملايين الأغاني والبودكاست مع قوائم تشغيل ذكية ونسخة مجانية مدعومة بالإعلانات.",
+    "platforms": [
+      "windows",
+      "mac",
+      "linux",
+      "android",
+      "ios",
+      "web"
+    ],
+    "license": "freemium",
+    "url": "https://www.spotify.com/download/",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-01",
+    "alternatives": [
+      "Plex",
+      "foobar2000"
+    ],
+    "tags": [
+      "بث",
+      "موسيقى",
+      "بودكاست"
+    ],
+    "slug": "spotify"
+  },
+  {
+    "name": "VLC media player",
+    "nameAr": "مشغل VLC",
+    "category": "media",
+    "desc": "مشغل وسائط مفتوح المصدر يشغل كل الصيغ تقريباً بدون كودكات.",
+    "platforms": [
+      "windows",
+      "mac",
+      "linux",
+      "android",
+      "ios"
+    ],
+    "license": "open-source",
+    "url": "https://www.videolan.org/vlc/",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "mpv",
+      "PotPlayer"
+    ],
+    "tags": [
+      "مشغل",
+      "فيديو",
+      "صوت"
+    ],
+    "slug": "vlc-media-player"
+  },
+  {
+    "name": "Adobe Photoshop",
+    "nameAr": "فوتوشوب",
+    "category": "design",
+    "desc": "المرجع الأشهر لتعديل الصور والتصميم الرقمي بأدوات الطبقات والقنوات والمخفيات مع مزايا ذكاء اصطناعي للتحرير.",
+    "platforms": [
+      "windows",
+      "mac",
+      "web"
+    ],
+    "license": "paid",
+    "url": "https://www.adobe.com/products/photoshop.html",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-01",
+    "alternatives": [
+      "GIMP",
+      "Photopea"
+    ],
+    "tags": [
+      "صور",
+      "تصميم",
+      "احترافي"
+    ],
+    "slug": "adobe-photoshop"
+  },
+  {
+    "name": "Affinity Designer",
+    "nameAr": "أفينيتي ديزاينر",
+    "category": "design",
+    "desc": "بديل احترافي لفوتوشوب للرسوم المتجهة بنظام دفع لمرة واحدة.",
+    "platforms": [
+      "windows",
+      "mac",
+      "ios"
+    ],
+    "license": "paid",
+    "url": "https://affinity.serif.com/en-us/designer/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "Photoshop",
+      "Figma"
+    ],
+    "tags": [
+      "تصميم",
+      "رسوم متجهة",
+      "احترافي"
+    ],
+    "slug": "affinity-designer"
+  },
+  {
+    "name": "Blender",
+    "nameAr": "بلندر",
+    "category": "design",
+    "desc": "حزمة مجانية مفتوحة المصدر للنمذجة ثلاثية الأبعاد والأنيميشن والفيديو.",
+    "platforms": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "license": "open-source",
+    "url": "https://www.blender.org/download/",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "DaVinci Resolve"
+    ],
+    "tags": [
+      "3D",
+      "أنيميشن",
+      "مفتوح المصدر"
+    ],
+    "slug": "blender"
+  },
+  {
+    "name": "Canva",
+    "nameAr": "كانفا",
+    "category": "design",
+    "desc": "منصة تصميم سهلة بقوالب جاهزة للسوشيال ميديا والطباعة والعروض التوضيحية مع أدوات ذكاء اصطناعي للصور والنصوص.",
+    "platforms": [
+      "web",
+      "windows",
+      "mac",
+      "android",
+      "ios"
+    ],
+    "license": "freemium",
+    "url": "https://www.canva.com/download/",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-01",
+    "alternatives": [
+      "Figma",
+      "Photopea"
+    ],
+    "tags": [
+      "تصميم",
+      "قوالب",
+      "جرافيك"
+    ],
+    "slug": "canva"
+  },
+  {
+    "name": "DaVinci Resolve",
+    "nameAr": "دافينشي ريزولف",
+    "category": "design",
+    "desc": "برنامج مونتاج وتصحيح ألوان ومؤثرات احترافي يجمع بين تحرير الفيديو وتصحيح الألوان ومحرّر الصوت في نسخة مجانية قوية.",
+    "platforms": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "license": "free",
+    "url": "https://www.blackmagicdesign.com/products/davinciresolve",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-01",
+    "alternatives": [
+      "OBS Studio",
+      "Audacity"
+    ],
+    "tags": [
+      "فيديو",
+      "مونتاج",
+      "تصحيح ألوان"
+    ],
+    "slug": "davinci-resolve"
+  },
+  {
+    "name": "Figma",
+    "nameAr": "فيغما",
+    "category": "design",
+    "desc": "منصة تصميم واجهات وتجارب مستخدم تعاونية تعمل في المتصفح مع تطبيقات لسطح المكتب والجوال ونماذج تفاعلية مشتركة.",
+    "platforms": [
+      "windows",
+      "mac",
+      "web",
+      "android",
+      "ios"
+    ],
+    "license": "freemium",
+    "url": "https://www.figma.com/downloads/",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-01",
+    "alternatives": [
+      "Canva",
+      "Adobe Photoshop"
+    ],
+    "tags": [
+      "تصميم",
+      "واجهات",
+      "نماذج"
+    ],
+    "slug": "figma"
+  },
+  {
+    "name": "GIMP",
+    "nameAr": "غِمب",
+    "category": "design",
+    "desc": "محرّر صور احترافي مفتوح المصدر بديل مجاني لفوتوشوب يدعم الطبقات والقنوات والمرشّحات وتصميم الجرافيك.",
+    "platforms": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "license": "open-source",
+    "url": "https://www.gimp.org/downloads/",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-01",
+    "alternatives": [
+      "Adobe Photoshop",
+      "Photopea",
+      "Inkscape"
+    ],
+    "tags": [
+      "صور",
+      "محرر",
+      "تصميم"
+    ],
+    "slug": "gimp"
+  },
+  {
+    "name": "Inkscape",
+    "nameAr": "إنكسكيب",
+    "category": "design",
+    "desc": "محرّر رسوميات متجهة مفتوح المصدر لتصميم الشعارات والأيقونات والرسوم التوضيحية عبر ملفات SVG معيارية.",
+    "platforms": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "license": "open-source",
+    "url": "https://inkscape.org/download/",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-01",
+    "alternatives": [
+      "GIMP",
+      "Figma"
+    ],
+    "tags": [
+      "رسوميات",
+      "متجهات",
+      "أيقونات"
+    ],
+    "slug": "inkscape"
+  },
+  {
+    "name": "Krita",
+    "nameAr": "كريتا",
+    "category": "design",
+    "desc": "برنامج رسم رقمي مفتوح المصدر للفنانين مع فرش متقدمة ودعم طبقات.",
+    "platforms": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "license": "open-source",
+    "url": "https://krita.org/en/download/",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "GIMP",
+      "Photoshop"
+    ],
+    "tags": [
+      "رسم",
+      "رقمي",
+      "مفتوح المصدر"
+    ],
+    "slug": "krita"
+  },
+  {
+    "name": "Photopea",
+    "nameAr": "فوتوبيا",
+    "category": "design",
+    "desc": "محرّر صور مجاني يعمل داخل المتصفح ويفتح ويحفظ ملفات PSD وSVG وRAW وأكثر من 40 صيغة دون أي تثبيت.",
+    "platforms": [
+      "web"
+    ],
+    "license": "freemium",
+    "url": "https://www.photopea.com/",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-01",
+    "alternatives": [
+      "GIMP",
+      "Adobe Photoshop"
+    ],
+    "tags": [
+      "صور",
+      "محرر",
+      "أونلاين"
+    ],
+    "slug": "photopea"
+  },
+  {
+    "name": "Sketch",
+    "nameAr": "سكتش",
+    "category": "design",
+    "desc": "أداة تصميم واجهات احترافية لـmacOS شهيرة في تصميم التطبيقات والويب.",
+    "platforms": [
+      "mac"
+    ],
+    "license": "paid",
+    "url": "https://www.sketch.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "Figma"
+    ],
+    "tags": [
+      "تصميم",
+      "واجهات",
+      "ماك"
+    ],
+    "slug": "sketch"
+  },
+  {
+    "name": "Ansible",
+    "nameAr": "آنسيبل",
+    "category": "dev",
+    "desc": "أداة أتمتة إدارة الإعدادات والنشر من Red Hat.",
+    "platforms": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "license": "open-source",
+    "url": "https://www.ansible.com/downloads",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "Terraform"
+    ],
+    "tags": [
+      "أتمتة",
+      "إدارة",
+      "مفتوح المصدر"
+    ],
+    "slug": "ansible"
+  },
+  {
+    "name": "Bitbucket",
+    "nameAr": "بت باكت",
+    "category": "dev",
+    "desc": "خدمة مستودعات Git من Atlassian مع تكامل قوي مع Jira وTrello.",
+    "platforms": [
+      "web"
+    ],
+    "license": "freemium",
+    "url": "https://bitbucket.org/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "GitLab",
+      "GitHub"
+    ],
+    "tags": [
+      "Git",
+      "مستودعات",
+      "Atlassian"
+    ],
+    "slug": "bitbucket"
+  },
+  {
+    "name": "DBeaver",
+    "nameAr": "دي بي فير",
+    "category": "dev",
+    "desc": "عميل قواعد بيانات شامل مفتوح المصدر يدعم PostgreSQL وMySQL وغيرها.",
+    "platforms": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "license": "open-source",
+    "url": "https://dbeaver.io/download/",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [],
+    "tags": [
+      "قاعدة بيانات",
+      "SQL",
+      "مفتوح المصدر"
+    ],
+    "slug": "dbeaver"
+  },
+  {
+    "name": "Deno",
+    "nameAr": "دينو",
+    "category": "dev",
+    "desc": "بيئة تشغيل JavaScript وTypeScript آمنة وحديثة من مبدع Node.js.",
+    "platforms": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "license": "open-source",
+    "url": "https://deno.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "Node.js",
+      "Bun"
+    ],
+    "tags": [
+      "JavaScript",
+      "TypeScript",
+      "مفتوح المصدر"
+    ],
+    "slug": "deno"
+  },
+  {
+    "name": "Django",
+    "nameAr": "جنغو",
+    "category": "dev",
+    "desc": "إطار عمل ويب بايثون مفتوح المصدر يوفّر لوحة تحكّم جاهزة وأتمتة ومحمية من أشهر ثغرات الويب، بسرعة تطوير عالية.",
+    "platforms": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "license": "open-source",
+    "url": "https://www.djangoproject.com/download/",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-01",
+    "alternatives": [
+      "Flask",
+      "Laravel"
+    ],
+    "tags": [
+      "إطار عمل",
+      "ويب",
+      "بايثون"
+    ],
+    "slug": "django"
+  },
+  {
+    "name": "Docker Desktop",
+    "nameAr": "دوكر ديسكتوب",
+    "category": "dev",
+    "desc": "منصّة حاويات لبناء وتشغيل ومشاركة التطبيقات داخل بيئة معزولة وقابلة للتكرار على ويندوز وماك ولينكس.",
+    "platforms": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "license": "freemium",
+    "url": "https://www.docker.com/products/docker-desktop/",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-01",
+    "alternatives": [
+      "Podman",
+      "VirtualBox"
+    ],
+    "tags": [
+      "حاويات",
+      "نشر",
+      "خوادم"
+    ],
+    "slug": "docker-desktop"
+  },
+  {
+    "name": "Git",
+    "nameAr": "جيت (إدارة نسخ الكود)",
+    "category": "dev",
+    "desc": "نظام تحكّم موزّع في نسخ الكود مفتوح المصدر، وهو المعيار العالمي في تتبع التغييرات والتعاون بين المطوّرين.",
+    "platforms": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "license": "open-source",
+    "url": "https://git-scm.com/install/",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-01",
+    "alternatives": [
+      "GitHub Desktop",
+      "GitKraken"
+    ],
+    "tags": [
+      "إدارة نسخ",
+      "جيت",
+      "سطر أوامر"
+    ],
+    "slug": "git"
+  },
+  {
+    "name": "GitLab",
+    "nameAr": "جيت لاب",
+    "category": "dev",
+    "desc": "منصة DevOps متكاملة لاستضافة المستودعات وCI/CD ومراجعة الكود.",
+    "platforms": [
+      "web"
+    ],
+    "license": "freemium",
+    "url": "https://about.gitlab.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "Bitbucket"
+    ],
+    "tags": [
+      "DevOps",
+      "مستودعات",
+      "CI/CD"
+    ],
+    "slug": "gitlab"
+  },
+  {
+    "name": "Insomnia",
+    "nameAr": "إنسومنيا",
+    "category": "dev",
+    "desc": "عميل API مجاني مفتوح المصدر لتطوير واختبار واجهات API.",
+    "platforms": [
+      "web",
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "license": "open-source",
+    "url": "https://insomnia.rest/download",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "Postman"
+    ],
+    "tags": [
+      "API",
+      "اختبار",
+      "مفتوح المصدر"
+    ],
+    "slug": "insomnia"
+  },
+  {
+    "name": "IntelliJ IDEA",
+    "nameAr": "إنتيلي جي أي دي إيه",
+    "category": "dev",
+    "desc": "بيئة تطوير متكاملة قوية من JetBrains للغة Java وKotlin وغيرها.",
+    "platforms": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "license": "freemium",
+    "url": "https://www.jetbrains.com/idea/download/",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "Eclipse",
+      "VS Code"
+    ],
+    "tags": [
+      "IDE",
+      "جافا",
+      "تطوير"
+    ],
+    "slug": "intellij-idea"
+  },
+  {
+    "name": "Jenkins",
+    "nameAr": "جنكينز",
+    "category": "dev",
+    "desc": "خادم أتمتة مفتوح المصدر للتكامل والنشر المستمر CI/CD.",
+    "platforms": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "license": "open-source",
+    "url": "https://www.jenkins.io/download/",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [],
+    "tags": [
+      "CI/CD",
+      "أتمتة",
+      "مفتوح المصدر"
+    ],
+    "slug": "jenkins"
+  },
+  {
+    "name": "Kubernetes",
+    "nameAr": "كوبرنيتس",
+    "category": "dev",
+    "desc": "منصة مفتوحة المصدر لأتمتة نشر وإدارة الحاويات.",
+    "platforms": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "license": "open-source",
+    "url": "https://kubernetes.io/releases/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "Docker"
+    ],
+    "tags": [
+      "حاويات",
+      "سحابة",
+      "أتمتة"
+    ],
+    "slug": "kubernetes"
+  },
+  {
+    "name": "MongoDB",
+    "nameAr": "مونغو دي بي",
+    "category": "dev",
+    "desc": "قاعدة بيانات NoSQL مفتوحة المصدر تخزن المستندات بشكل مرن.",
+    "platforms": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "license": "open-source",
+    "url": "https://www.mongodb.com/try/download/community",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "MySQL",
+      "PostgreSQL"
+    ],
+    "tags": [
+      "NoSQL",
+      "قاعدة بيانات",
+      "مفتوح المصدر"
+    ],
+    "slug": "mongodb"
+  },
+  {
+    "name": "MySQL",
+    "nameAr": "ماي إس كيو إل",
+    "category": "dev",
+    "desc": "نظام قاعدة بيانات علائقية مفتوح المصدر الأكثر شيوعاً في الويب.",
+    "platforms": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "license": "open-source",
+    "url": "https://www.mysql.com/downloads/",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "PostgreSQL",
+      "MariaDB"
+    ],
+    "tags": [
+      "قاعدة بيانات",
+      "SQL",
+      "مفتوح المصدر"
+    ],
+    "slug": "mysql"
+  },
+  {
+    "name": "Node.js",
+    "nameAr": "نود جي إس",
+    "category": "dev",
+    "desc": "بيئة تشغيل JavaScript مفتوحة المصدر لبناء تطبيقات الخادم والسطر الأوامر.",
+    "platforms": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "license": "open-source",
+    "url": "https://nodejs.org/en/download",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "Deno",
+      "Bun"
+    ],
+    "tags": [
+      "JavaScript",
+      "خادم",
+      "مفتوح المصدر"
+    ],
+    "slug": "node-js"
+  },
+  {
+    "name": "npm",
+    "nameAr": "إن بي أم",
+    "category": "dev",
+    "desc": "مدير حزم JavaScript الأكر مع مستودع ضخم وأدوات سطر أوامر.",
+    "platforms": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "license": "open-source",
+    "url": "https://www.npmjs.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "Yarn",
+      "pnpm"
+    ],
+    "tags": [
+      "حزم",
+      "JavaScript",
+      "مفتوح المصدر"
+    ],
+    "slug": "npm"
+  },
+  {
+    "name": "PostgreSQL",
+    "nameAr": "بوستجري إس كيو إل",
+    "category": "dev",
+    "desc": "قاعدة بيانات علائقية متقدّمة وموثوقة مفتوح المصدر، تشتهر بالمتانة والالتزام بمعايير SQL ومجتمع تطوير نشط.",
+    "platforms": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "license": "open-source",
+    "url": "https://www.postgresql.org/download/",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-01",
+    "alternatives": [
+      "MySQL",
+      "MariaDB"
+    ],
+    "tags": [
+      "قاعدة بيانات",
+      "SQL",
+      "خوادم"
+    ],
+    "slug": "postgresql"
+  },
+  {
+    "name": "Postman",
+    "nameAr": "بوستمان",
+    "category": "dev",
+    "desc": "أداة شهيرة لتصميم واختبار وتوثيق واجهات API.",
+    "platforms": [
+      "web",
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "license": "freemium",
+    "url": "https://www.postman.com/downloads/",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "Insomnia"
+    ],
+    "tags": [
+      "API",
+      "اختبار",
+      "تطوير"
+    ],
+    "slug": "postman"
+  },
+  {
+    "name": "Python",
+    "nameAr": "بايثون",
+    "category": "dev",
+    "desc": "لغة برمجة سهلة ومتعدّدة الاستخدامات تُستخدم في الويب والذكاء الاصطناعي وتحليل البيانات، مع حزم تثبيت رسمية لأنظمة التشغيل الرئيسية.",
+    "platforms": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "license": "open-source",
+    "url": "https://www.python.org/downloads/",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-01",
+    "alternatives": [
+      "Anaconda",
+      "PyCharm"
+    ],
+    "tags": [
+      "لغة برمجة",
+      "بايثون",
+      "تطوير"
+    ],
+    "slug": "python"
+  },
+  {
+    "name": "Redis",
+    "nameAr": "ريديس",
+    "category": "dev",
+    "desc": "قاعدة بيانات في الذاكرة مفتوحة المصدر للتخزين المؤقت والرسائل.",
+    "platforms": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "license": "open-source",
+    "url": "https://redis.io/download",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "Memcached"
+    ],
+    "tags": [
+      "ذاكرة",
+      "تخزين مؤقت",
+      "مفتوح المصدر"
+    ],
+    "slug": "redis"
+  },
+  {
+    "name": "Sourcegraph",
+    "nameAr": "سورس غراف",
+    "category": "dev",
+    "desc": "أداة بحث ذكي في الكود عبر المشاريع والمستودعات الكبيرة.",
+    "platforms": [
+      "web"
+    ],
+    "license": "freemium",
+    "url": "https://sourcegraph.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [],
+    "tags": [
+      "بحث",
+      "كود",
+      "DevOps"
+    ],
+    "slug": "sourcegraph"
+  },
+  {
+    "name": "SQLite",
+    "nameAr": "إس كيو لايت",
+    "category": "dev",
+    "desc": "قاعدة بيانات علائقية خفيفة مدمجة في التطبيقات بدون خادم منفصل.",
+    "platforms": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "license": "open-source",
+    "url": "https://www.sqlite.org/download.html",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [],
+    "tags": [
+      "قاعدة بيانات",
+      "SQL",
+      "خفيف"
+    ],
+    "slug": "sqlite"
+  },
+  {
+    "name": "Stack Overflow",
+    "nameAr": "ستاك أوفر فلو",
+    "category": "dev",
+    "desc": "مجتمع وموقع أسئلة وأجوبة الأضخم للمبرمجين والمطورين.",
+    "platforms": [
+      "web"
+    ],
+    "license": "free",
+    "url": "https://stackoverflow.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [],
+    "tags": [
+      "أسئلة",
+      "مجتمع",
+      "برمجة"
+    ],
+    "slug": "stack-overflow"
+  },
+  {
+    "name": "Sublime Text",
+    "nameAr": "سابلايم تيكست",
+    "category": "dev",
+    "desc": "محرر نصوص سريع وخفيف مع إضافات كثيرة ودعم لغات برمجة متعددة.",
+    "platforms": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "license": "paid",
+    "url": "https://www.sublimetext.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "VS Code",
+      "Notepad++"
+    ],
+    "tags": [
+      "محرر",
+      "كود",
+      "سريع"
+    ],
+    "slug": "sublime-text"
+  },
+  {
+    "name": "Terraform",
+    "nameAr": "تيرا فورم",
+    "category": "dev",
+    "desc": "أداة البنية التحتية ككود من HashiCorp لأتمتة الخوادم والسحاب.",
+    "platforms": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "license": "open-source",
+    "url": "https://www.terraform.io/downloads",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "Ansible"
+    ],
+    "tags": [
+      "بنية تحتية",
+      "سحابة",
+      "أتمتة"
+    ],
+    "slug": "terraform"
+  },
+  {
+    "name": "Visual Studio",
+    "nameAr": "فيجوال ستوديو",
+    "category": "dev",
+    "desc": "بيئة تطوير متكاملة من Microsoft .NET وC++ وC# وغيرها.",
+    "platforms": [
+      "windows",
+      "mac"
+    ],
+    "license": "freemium",
+    "url": "https://visualstudio.microsoft.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "VS Code",
+      "IntelliJ IDEA"
+    ],
+    "tags": [
+      "IDE",
+      "مايكروسوفت",
+      "تطوير"
+    ],
+    "slug": "visual-studio"
+  },
+  {
+    "name": "Visual Studio Code",
+    "nameAr": "محرّر أكواد فيجوال ستوديو",
+    "category": "dev",
+    "desc": "محرّر أكواد خفيف وسريع من مايكروسوفت مفتوح المصدر، يدعم معظم لغات البرمجة مع سوق إضافات ضخم وطرفية وتحكّم Git مدمج.",
+    "platforms": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "license": "open-source",
+    "url": "https://code.visualstudio.com/download",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-01",
+    "alternatives": [
+      "Sublime Text",
+      "Notepad++"
+    ],
+    "tags": [
+      "محرّر أكواد",
+      "برمجة",
+      "بيئة تطوير"
+    ],
+    "slug": "visual-studio-code"
+  },
+  {
+    "name": "Yarn",
+    "nameAr": "يارن",
+    "category": "dev",
+    "desc": "مدير حزم JavaScript سريع وآمن بدعم Workspaces.",
+    "platforms": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "license": "open-source",
+    "url": "https://yarnpkg.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "npm",
+      "pnpm"
+    ],
+    "tags": [
+      "حزم",
+      "JavaScript",
+      "مفتوح المصدر"
+    ],
+    "slug": "yarn"
+  },
+  {
+    "name": "Aegis Authenticator",
+    "nameAr": "איجيس أوثنتيكيتور",
+    "category": "android",
+    "desc": "مدير رموز تحقق ثنائي مفتوح المصدر لأنظمة أندرويد.",
+    "platforms": [
+      "android"
+    ],
+    "license": "open-source",
+    "url": "https://github.com/beemdevelopment/Aegis",
+    "urlType": "github",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [],
+    "tags": [
+      "أمان",
+      "تحقق",
+      "أندرويد"
+    ],
+    "slug": "aegis-authenticator"
+  },
+  {
+    "name": "Android Studio",
+    "nameAr": "أندرويد ستوديو",
+    "category": "android",
+    "desc": "بيئة التطوير الرسمية من Google لتطبيقات أندرويد.",
+    "platforms": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "license": "free",
+    "url": "https://developer.android.com/studio",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "IntelliJ IDEA"
+    ],
+    "tags": [
+      "تطوير",
+      "أندرويد",
+      "IDE"
+    ],
+    "slug": "android-studio"
+  },
+  {
+    "name": "Aurora Store",
+    "nameAr": "أورورا ستور",
+    "category": "android",
+    "desc": "متجر تطبيقات بديل مفتوح المصدر لأندرويد يعمل بدون حساب Google.",
+    "platforms": [
+      "android"
+    ],
+    "license": "open-source",
+    "url": "https://auroraoss.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "F-Droid"
+    ],
+    "tags": [
+      "متجر",
+      "أندرويد",
+      "مفتوح المصدر"
+    ],
+    "slug": "aurora-store"
+  },
+  {
+    "name": "F-Droid",
+    "nameAr": "إف-درويد",
+    "category": "android",
+    "desc": "مستودع تطبيقات مفتوح المصدر لأندرويد يحوي تطبيقات حرة بالكامل.",
+    "platforms": [
+      "android"
+    ],
+    "license": "open-source",
+    "url": "https://f-droid.org/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "Aurora Store"
+    ],
+    "tags": [
+      "متجر",
+      "مفتوح المصدر",
+      "أندرويد"
+    ],
+    "slug": "f-droid"
+  },
+  {
+    "name": "Files by Google",
+    "nameAr": "ملفات من جوجل",
+    "category": "android",
+    "desc": "مدير ملفات بسيط وخفيف من جوجل ينظّف المساحة ويحذف المكرّر ويدير التنزيلات والملفات المشاركة بواجهة واضحة.",
+    "platforms": [
+      "android"
+    ],
+    "license": "free",
+    "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files",
+    "urlType": "play-store",
+    "verifiedOn": "2026-11-01",
+    "alternatives": [
+      "Solid Explorer",
+      "Total Commander"
+    ],
+    "tags": [
+      "ملفات",
+      "تنظيف",
+      "أندرويد"
+    ],
+    "slug": "files-by-google"
+  },
+  {
+    "name": "Firefox for Android",
+    "nameAr": "متصفّح فايرفوكس لأندرويد",
+    "category": "android",
+    "desc": "متصفّح مفتوح المصدر من موزيلا يحمي خصوصيتك افتراضياً، مع دعم الإضافات ومزامنة التبويبات وحجب المتتبّعات المدمج.",
+    "platforms": [
+      "android"
+    ],
+    "license": "open-source",
+    "url": "https://play.google.com/store/apps/details?id=org.mozilla.firefox",
+    "urlType": "play-store",
+    "verifiedOn": "2026-11-01",
+    "alternatives": [
+      "Google Chrome",
+      "Opera"
+    ],
+    "tags": [
+      "متصفّح",
+      "خصوصية",
+      "أندرويد"
+    ],
+    "slug": "firefox-for-android"
+  },
+  {
+    "name": "Google Drive",
+    "nameAr": "جوجل درايف",
+    "category": "android",
+    "desc": "تخزين سحابي من جوجل لحفظ الملفات والصور ومشاركتها والتعاون عليها من الموبايل، مع 15 غيغابايت مساحة مجانية.",
+    "platforms": [
+      "android"
+    ],
+    "license": "freemium",
+    "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.docs",
+    "urlType": "play-store",
+    "verifiedOn": "2026-11-01",
+    "alternatives": [
+      "Dropbox",
+      "OneDrive"
+    ],
+    "tags": [
+      "تخزين سحابي",
+      "إنتاجية",
+      "ملفات"
+    ],
+    "slug": "google-drive"
+  },
+  {
+    "name": "MX Player",
+    "nameAr": "إم إكس بلاير",
+    "category": "android",
+    "desc": "مشغل فيديو شهير لأندرويد مع دعم واسع للصيغ والترجمة.",
+    "platforms": [
+      "android"
+    ],
+    "license": "freemium",
+    "url": "https://mxplayer.in/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "VLC"
+    ],
+    "tags": [
+      "فيديو",
+      "مشغل",
+      "أندرويد"
+    ],
+    "slug": "mx-player"
+  },
+  {
+    "name": "Nova Launcher",
+    "nameAr": "نوفا لانشر",
+    "category": "android",
+    "desc": "قاذف تطبيقات قابل للتخصيص بدرجة عالية لأندرويد مع دعم الإيماءات والسمات.",
+    "platforms": [
+      "android"
+    ],
+    "license": "freemium",
+    "url": "https://nova launcher.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [],
+    "tags": [
+      "قاذف",
+      "تخصيص",
+      "أندرويد"
+    ],
+    "slug": "nova-launcher"
+  },
+  {
+    "name": "Solid Explorer",
+    "nameAr": "سوليد إكسبلورر",
+    "category": "android",
+    "desc": "مدير ملفات احترافي لأندرويد مع دعم التخزين السحابي والتشفير.",
+    "platforms": [
+      "android"
+    ],
+    "license": "paid",
+    "url": "https://solid explorer.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "Files by Google"
+    ],
+    "tags": [
+      "ملفات",
+      "مدير",
+      "أندرويد"
+    ],
+    "slug": "solid-explorer"
+  },
+  {
+    "name": "Tasker",
+    "nameAr": "تاسكر",
+    "category": "android",
+    "desc": "أداة أتمتة قوية لأندرويد لإنشاء مهام وإجراءات تلقائية حسب الشروط.",
+    "platforms": [
+      "android"
+    ],
+    "license": "paid",
+    "url": "https://tasker.joam2.it/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [],
+    "tags": [
+      "أتمتة",
+      "مهام",
+      "أندرويد"
+    ],
+    "slug": "tasker"
+  },
+  {
+    "name": "Termux",
+    "nameAr": "تيرموكس",
+    "category": "android",
+    "desc": "طرفية لينكس كاملة لأندرويد تشغّل بيئة سطر أوامر حقيقية وحزم برمجية متعدّدة على الجهاز دون صلاحيات جذر.",
+    "platforms": [
+      "android"
+    ],
+    "license": "open-source",
+    "url": "https://play.google.com/store/apps/details?id=com.termux",
+    "urlType": "play-store",
+    "verifiedOn": "2026-11-01",
+    "alternatives": [
+      "Termius",
+      "AIDE"
+    ],
+    "tags": [
+      "طرفية",
+      "لينكس",
+      "أدوات"
+    ],
+    "slug": "termux"
+  },
+  {
+    "name": "FreeFileSync",
+    "nameAr": "فري فايل سينك",
+    "category": "utilities",
+    "desc": "برنامج مفتوح المصدر لمزامنة الملفات والمجلدات ونسخها احتياطياً بين الأقراص والأجهزة مع مقارنة ذكية وجدولة تلقائية.",
+    "platforms": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "license": "open-source",
+    "url": "https://www.freefilesync.org/download.php",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-01",
+    "alternatives": [
+      "Duplicati",
+      "GoodSync"
+    ],
+    "tags": [
+      "نسخ احتياطي",
+      "مزامنة",
+      "ملفات"
+    ],
+    "slug": "freefilesync"
+  },
+  {
+    "name": "Notepad++",
+    "nameAr": "نوتباد بلس بلس",
+    "category": "utilities",
+    "desc": "محرر نصوص برمجي خفيف ومفتوح المصدر لويندوز يدعم تلوين الصيغ والتحرير المتقدم للعديد من اللغات.",
+    "platforms": [
+      "windows"
+    ],
+    "license": "open-source",
+    "url": "https://notepad-plus-plus.org/downloads/",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [],
+    "tags": [
+      "محرر نصوص",
+      "برمجة",
+      "ويندوز"
+    ],
+    "slug": "notepad"
+  },
+  {
+    "name": "Ollama",
+    "nameAr": "أولاما",
+    "category": "utilities",
+    "desc": "أداة مفتوحة المصدر لتشغيل نماذج الذكاء الاصطناعي مفتوحة المصدر على جهازك مباشرة بسطر واحد، بخصوصية كاملة ودون اشتراك.",
+    "platforms": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "license": "open-source",
+    "url": "https://ollama.com/download",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-01",
+    "alternatives": [
+      "LM Studio",
+      "GPT4All"
+    ],
+    "tags": [
+      "ذكاء اصطناعي",
+      "نماذج",
+      "خصوصية"
+    ],
+    "slug": "ollama"
+  },
+  {
+    "name": "Rufus",
+    "nameAr": "روفيوس",
+    "category": "utilities",
+    "desc": "أداة إنشاء محررات USB قابلة للتشغيل مفتوحة المصدر تدعم الإعدادات المتقدمة للإنشاء السريع.",
+    "platforms": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "license": "open-source",
+    "url": "https://rufus.ie/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [],
+    "tags": [
+      "USB",
+      "تثبيت",
+      "محرر"
+    ],
+    "slug": "rufus"
+  },
+  {
+    "name": "yt-dlp",
+    "nameAr": "واي تي دي إل بي",
+    "category": "utilities",
+    "desc": "أداة سطر أوامر مفتوحة المصدر لتنزيل الفيديو والصوت من آلاف المواقع ومنصّات البث، وهي خليفة مطوّرة باستمرار لـ youtube-dl.",
+    "platforms": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "license": "open-source",
+    "url": "https://github.com/yt-dlp/yt-dlp/releases/latest",
+    "urlType": "github",
+    "verifiedOn": "2026-11-01",
+    "alternatives": [
+      "JDownloader",
+      "Free Download Manager"
+    ],
+    "tags": [
+      "تنزيل",
+      "فيديو",
+      "سطر أوامر"
+    ],
+    "slug": "yt-dlp"
+  },
+  {
+    "name": "1Password",
+    "nameAr": "ون باسوورد",
+    "category": "ios",
+    "desc": "مدير كلمات مرور شهير على iOS مع مزامنة سحابية وتعبئة تلقائية.",
+    "platforms": [
+      "ios",
+      "mac",
+      "windows"
+    ],
+    "license": "freemium",
+    "url": "https://1password.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "Bitwarden"
+    ],
+    "tags": [
+      "كلمات مرور",
+      "أمان",
+      "iOS"
+    ],
+    "slug": "1password"
+  },
+  {
+    "name": "Bear",
+    "nameAr": "بير",
+    "category": "ios",
+    "desc": "تطبيق ملاحظات وكتابة جميل لـiOS وmacOS يدعم Markdown والوسوم والمزامنة السحابية.",
+    "platforms": [
+      "ios",
+      "mac"
+    ],
+    "license": "freemium",
+    "url": "https://bear.app/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "Obsidian"
+    ],
+    "tags": [
+      "ملاحظات",
+      "كتابة",
+      "Markdown"
+    ],
+    "slug": "bear"
+  },
+  {
+    "name": "Darkroom",
+    "nameAr": "داركروم",
+    "category": "ios",
+    "desc": "محرر صور احترافي على iOS مع دعم RAW وطبقات.",
+    "platforms": [
+      "ios"
+    ],
+    "license": "freemium",
+    "url": "https://darkroom.co/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [],
+    "tags": [
+      "صور",
+      "محرر",
+      "iOS"
+    ],
+    "slug": "darkroom"
+  },
+  {
+    "name": "Fantastical",
+    "nameAr": "فانتاستيكال",
+    "category": "ios",
+    "desc": "تطبيق تقويم أنيق على iOS وmacOS مع دعم اللغة الطبيعية.",
+    "platforms": [
+      "ios",
+      "mac"
+    ],
+    "license": "paid",
+    "url": "https://flexibits.com/fantastical",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [],
+    "tags": [
+      "تقويم",
+      "iOS",
+      "ماك"
+    ],
+    "slug": "fantastical"
+  },
+  {
+    "name": "GoodNotes",
+    "nameAr": "جود نوتس",
+    "category": "ios",
+    "desc": "تطبيق تدوين ملاحظات رقمي على iPad يدعم الكتابة اليدوية والدفاتر والبحث في الخط اليدوي.",
+    "platforms": [
+      "ios",
+      "mac"
+    ],
+    "license": "freemium",
+    "url": "https://www.goodnotes.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [],
+    "tags": [
+      "ملاحظات",
+      "كتابة يدوية",
+      "آيباد"
+    ],
+    "slug": "goodnotes"
+  },
+  {
+    "name": "Overcast",
+    "nameAr": "أوفركاست",
+    "category": "ios",
+    "desc": "تطبيق بودكاست شهير على iOS مع ميزات ذكية لتحسين الصوت.",
+    "platforms": [
+      "ios"
+    ],
+    "license": "free",
+    "url": "https://overcast.fm/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [],
+    "tags": [
+      "بودكاست",
+      "iOS",
+      "مجاني"
+    ],
+    "slug": "overcast"
+  },
+  {
+    "name": "Procreate",
+    "nameAr": "بروكريت",
+    "category": "ios",
+    "desc": "تطبيق رسم ولوحة رسم رقمي شهير على iPad يوفر فرشاً طبيعية وأدوات احترافية للفنانين والرسامين.",
+    "platforms": [
+      "ios"
+    ],
+    "license": "paid",
+    "url": "https://procreate.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [],
+    "tags": [
+      "رسم",
+      "تصميم",
+      "آيباد"
+    ],
+    "slug": "procreate"
+  },
+  {
+    "name": "Things 3",
+    "nameAr": "ثينجز 3",
+    "category": "ios",
+    "desc": "مدير مهام أنيق لنظامي iOS وmacOS بواجهة بسيطة وإدارة مشاريع وتذكيرات ذكية.",
+    "platforms": [
+      "ios",
+      "mac"
+    ],
+    "license": "paid",
+    "url": "https://culturedcode.com/things/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "Todoist"
+    ],
+    "tags": [
+      "مهام",
+      "تنظيم",
+      "إنتاجية"
+    ],
+    "slug": "things-3"
+  },
+  {
+    "name": "AlDente",
+    "nameAr": "ألدينتي",
+    "category": "mac",
+    "desc": "أداة macOS لإدارة حد شحن البطارية وتقليل تدهورها عبر ضبط نسب الشحن القصوى.",
+    "platforms": [
+      "mac"
+    ],
+    "license": "freemium",
+    "url": "https://apphousekitchen.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [],
+    "tags": [
+      "بطارية",
+      "ماك",
+      "صيانة"
+    ],
+    "slug": "aldente"
+  },
+  {
+    "name": "Alfred",
+    "nameAr": "ألفريد",
+    "category": "mac",
+    "desc": "مشغل أوامر ومهام سريع لماك مع اختصارات وسير عمل مخصص.",
+    "platforms": [
+      "mac"
+    ],
+    "license": "freemium",
+    "url": "https://www.alfredapp.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "Raycast"
+    ],
+    "tags": [
+      "مشغل",
+      "ماك",
+      "إنتاجية"
+    ],
+    "slug": "alfred"
+  },
+  {
+    "name": "CleanMyMac X",
+    "nameAr": "كلين ماي ماك",
+    "category": "mac",
+    "desc": "أداة تنظيف وصيانة شاملة لماك تحذف الملفات غير الضرورية.",
+    "platforms": [
+      "mac"
+    ],
+    "license": "paid",
+    "url": "https://macpaw.com/cleanmymac",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [],
+    "tags": [
+      "تنظيف",
+      "ماك",
+      "صيانة"
+    ],
+    "slug": "cleanmymac-x"
+  },
+  {
+    "name": "Homebrew",
+    "nameAr": "هوم برو",
+    "category": "mac",
+    "desc": "مدير حزم مفتوح المصدر لنظام macOS ولينكس يثبت الأدوات والبرامج بأمر واحد من الطرفية.",
+    "platforms": [
+      "mac",
+      "linux"
+    ],
+    "license": "open-source",
+    "url": "https://brew.sh/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [],
+    "tags": [
+      "حزم",
+      "ماك",
+      "طرفية"
+    ],
+    "slug": "homebrew"
+  },
+  {
+    "name": "iTerm2",
+    "nameAr": "آي تيرم 2",
+    "category": "mac",
+    "desc": "محاكي طرفية متقدم مفتوح المصدر لنظام macOS يضيف التبويبات والتقسيمات والبحث والتحكم الكامل.",
+    "platforms": [
+      "mac"
+    ],
+    "license": "open-source",
+    "url": "https://iterm2.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [],
+    "tags": [
+      "طرفية",
+      "ماك",
+      "أوامر"
+    ],
+    "slug": "iterm2"
+  },
+  {
+    "name": "Raycast",
+    "nameAr": "راي كاست",
+    "category": "mac",
+    "desc": "مشغل أوامر لماك يجمع الوظائف والإضافات وسير العمل في مكان واحد.",
+    "platforms": [
+      "mac"
+    ],
+    "license": "freemium",
+    "url": "https://www.raycast.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "Alfred"
+    ],
+    "tags": [
+      "مشغل",
+      "ماك",
+      "إنتاجية"
+    ],
+    "slug": "raycast"
+  },
+  {
+    "name": "Rectangle",
+    "nameAr": "ريكتانجل",
+    "category": "mac",
+    "desc": "مدير نوافذ مجاني ومفتوح المصدر لنظام macOS يتيح ترتيب النوافذ بالاختصارات والسحب.",
+    "platforms": [
+      "mac"
+    ],
+    "license": "open-source",
+    "url": "https://rectangleapp.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [],
+    "tags": [
+      "نوافذ",
+      "ماك",
+      "اختصارات"
+    ],
+    "slug": "rectangle"
+  },
+  {
+    "name": "Stats",
+    "nameAr": "ستاتس",
+    "category": "mac",
+    "desc": "أداة مفتوحة المصدر لعرض إحصائيات النظام في شريط قائمة ماك.",
+    "platforms": [
+      "mac"
+    ],
+    "license": "open-source",
+    "url": "https://github.com/exelban/stats",
+    "urlType": "github",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [],
+    "tags": [
+      "إحصائيات",
+      "ماك",
+      "مفتوح المصدر"
+    ],
+    "slug": "stats"
+  },
+  {
+    "name": "Xcode",
+    "nameAr": "إكس كود",
+    "category": "mac",
+    "desc": "بيئة التطوير الرسمية من Apple لتطبيقات iOS وmacOS.",
+    "platforms": [
+      "mac"
+    ],
+    "license": "free",
+    "url": "https://developer.apple.com/xcode/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [],
+    "tags": [
+      "تطوير",
+      "Apple",
+      "IDE"
+    ],
+    "slug": "xcode"
+  },
+  {
+    "name": "Arch Linux",
+    "nameAr": "آرتش لينكس",
+    "category": "linux",
+    "desc": "توزيعة لينكس مفتوحة المصدر خفيفة ومرنة موجهة للمستخدمين المتقدمين مع تحكم كامل.",
+    "platforms": [
+      "linux"
+    ],
+    "license": "open-source",
+    "url": "https://archlinux.org/download/",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "Fedora"
+    ],
+    "tags": [
+      "توزيعة",
+      "لينكس",
+      "متقدم"
+    ],
+    "slug": "arch-linux"
+  },
+  {
+    "name": "Fedora",
+    "nameAr": "فيدورا",
+    "category": "linux",
+    "desc": "توزيعة لينكس مفتوحة المصدر حديثة تركز على أحدث التقنيات وتُستخدم كثيراً في التطوير.",
+    "platforms": [
+      "linux"
+    ],
+    "license": "open-source",
+    "url": "https://fedoraproject.org/workstation/",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "Ubuntu"
+    ],
+    "tags": [
+      "توزيعة",
+      "لينكس",
+      "حديث"
+    ],
+    "slug": "fedora"
+  },
+  {
+    "name": "Flatpak",
+    "nameAr": "فلاتباك",
+    "category": "linux",
+    "desc": "نظام توزيع تطبيقات معزولة للينكس مع تشغيل آمن وتحديثات مركزية.",
+    "platforms": [
+      "linux"
+    ],
+    "license": "open-source",
+    "url": "https://flatpak.org/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "Snap Store"
+    ],
+    "tags": [
+      "حزم",
+      "لينكس",
+      "مفتوح المصدر"
+    ],
+    "slug": "flatpak"
+  },
+  {
+    "name": "Linux Mint",
+    "nameAr": "لينكس مينت",
+    "category": "linux",
+    "desc": "توزيعة لينكس مفتوحة المصدر مبنية على أوبونتو تتميز بسهولة الاستخدام وواجهة تقليدية مألوفة.",
+    "platforms": [
+      "linux"
+    ],
+    "license": "open-source",
+    "url": "https://linuxmint.com/download.php",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "Ubuntu"
+    ],
+    "tags": [
+      "توزيعة",
+      "لينكس",
+      "سهل"
+    ],
+    "slug": "linux-mint"
+  },
+  {
+    "name": "Snap Store",
+    "nameAr": "سناب ستور",
+    "category": "linux",
+    "desc": "متجر حزم Snap الرسمي من Canonical لتوزيع تطبيقات لينكس.",
+    "platforms": [
+      "linux"
+    ],
+    "license": "free",
+    "url": "https://snapcraft.io/store",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "Flatpak"
+    ],
+    "tags": [
+      "حزم",
+      "لينكس",
+      "متجر"
+    ],
+    "slug": "snap-store"
+  },
+  {
+    "name": "Ubuntu",
+    "nameAr": "أوبونتو",
+    "category": "linux",
+    "desc": "توزيعة لينكس شهيرة مفتوحة المصدر سهلة الاستخدام ومناسبة للمبتدئين والمطوّرين مع دعم طويل.",
+    "platforms": [
+      "linux"
+    ],
+    "license": "open-source",
+    "url": "https://ubuntu.com/download/desktop",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "Linux Mint",
+      "Fedora"
+    ],
+    "tags": [
+      "توزيعة",
+      "لينكس",
+      "نظام"
+    ],
+    "slug": "ubuntu"
+  },
+  {
+    "name": "VirtualBox",
+    "nameAr": "فيرتوال بوكس",
+    "category": "linux",
+    "desc": "برنامج محاكاة افتراضية مجاني ومفتوح المصدر لتشغيل أنظمة تشغيل متعددة.",
+    "platforms": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "license": "open-source",
+    "url": "https://www.virtualbox.org/wiki/Downloads",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [],
+    "tags": [
+      "محاكاة",
+      "افتراضي",
+      "مفتوح المصدر"
+    ],
+    "slug": "virtualbox"
+  },
+  {
+    "name": "CloudConvert",
+    "nameAr": "كلاود كونفرت",
+    "category": "web",
+    "desc": "خدمة تحويل ملفات عبر الإنترنت تدعم مئات الصيغ.",
+    "platforms": [
+      "web"
+    ],
+    "license": "freemium",
+    "url": "https://cloudconvert.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [],
+    "tags": [
+      "تحويل",
+      "ملفات",
+      "ويب"
+    ],
+    "slug": "cloudconvert"
+  },
+  {
+    "name": "CodePen",
+    "nameAr": "كود بين",
+    "category": "web",
+    "desc": "محرر كود تجريبي في المتصفح لمشاريع HTML وCSS وJavaScript الصغيرة.",
+    "platforms": [
+      "web"
+    ],
+    "license": "freemium",
+    "url": "https://codepen.io/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "JSFiddle",
+      "CodeSandbox"
+    ],
+    "tags": [
+      "كود",
+      "تجربة",
+      "واجهات"
+    ],
+    "slug": "codepen"
+  },
+  {
+    "name": "CodeSandbox",
+    "nameAr": "كود ساندبوكس",
+    "category": "web",
+    "desc": "بيئة تطوير سحابية كاملة في المتصفح لإنشاء واختبار مشاريع الويب.",
+    "platforms": [
+      "web"
+    ],
+    "license": "freemium",
+    "url": "https://codesandbox.io/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "CodePen",
+      "StackBlitz"
+    ],
+    "tags": [
+      "كود",
+      "تطوير",
+      "سحابة"
+    ],
+    "slug": "codesandbox"
+  },
+  {
+    "name": "Excalidraw",
+    "nameAr": "إكسكاليدرو",
+    "category": "web",
+    "desc": "أداة رسم تخطيطي ووايرفريم مجانية مفتوحة المصدر تعمل من المتصفح بواجهة يدوية الطابع.",
+    "platforms": [
+      "web"
+    ],
+    "license": "open-source",
+    "url": "https://excalidraw.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [],
+    "tags": [
+      "رسم تخطيطي",
+      "وايرفريم",
+      "تعاون"
+    ],
+    "slug": "excalidraw"
+  },
+  {
+    "name": "Glitch",
+    "nameAr": "جليتش",
+    "category": "web",
+    "desc": "منصة إنشاء واستضافة تطبيقات ويب صغيرة مع مجتمع مشارِك.",
+    "platforms": [
+      "web"
+    ],
+    "license": "freemium",
+    "url": "https://glitch.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "Replit"
+    ],
+    "tags": [
+      "كود",
+      "استضافة",
+      "مجتمع"
+    ],
+    "slug": "glitch"
+  },
+  {
+    "name": "JSFiddle",
+    "nameAr": "جي إس فيدل",
+    "category": "web",
+    "desc": "مختبر كود عبر الإنترنت لمشاركة واختبار أجزاء JavaScript وHTML.",
+    "platforms": [
+      "web"
+    ],
+    "license": "free",
+    "url": "https://jsfiddle.net/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "CodePen"
+    ],
+    "tags": [
+      "كود",
+      "اختبار",
+      "واجهات"
+    ],
+    "slug": "jsfiddle"
+  },
+  {
+    "name": "Miro",
+    "nameAr": "ميرو",
+    "category": "web",
+    "desc": "لوحة تعاون مرئية بلا حدود للفرق لرسم الأفكار وخطط المشاريع والعصف الذهني عن بعد.",
+    "platforms": [
+      "web"
+    ],
+    "license": "freemium",
+    "url": "https://miro.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "tldraw"
+    ],
+    "tags": [
+      "تعاون",
+      "لوحة بيضاء",
+      "فرق"
+    ],
+    "slug": "miro"
+  },
+  {
+    "name": "Notion",
+    "nameAr": "نوشن",
+    "category": "web",
+    "desc": "مساحة عمل متكاملة تجمع الملاحظات والمهام وقواعد البيانات وويكي الفريق في تطبيق واحد.",
+    "platforms": [
+      "web",
+      "windows",
+      "mac",
+      "ios",
+      "android"
+    ],
+    "license": "freemium",
+    "url": "https://www.notion.so/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "Obsidian"
+    ],
+    "tags": [
+      "ملاحظات",
+      "قواعد بيانات",
+      "عمل جماعي"
+    ],
+    "slug": "notion"
+  },
+  {
+    "name": "Remove.bg",
+    "nameAr": "ريموف بي جي",
+    "category": "web",
+    "desc": "أداة عبر الإنترنت لإزالة خلفية الصور تلقائياً بالذكاء الاصطناعي.",
+    "platforms": [
+      "web"
+    ],
+    "license": "freemium",
+    "url": "https://www.remove.bg/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [],
+    "tags": [
+      "صور",
+      "خلفية",
+      "ذكاء اصطناعي"
+    ],
+    "slug": "remove-bg"
+  },
+  {
+    "name": "Replit",
+    "nameAr": "ريبليت",
+    "category": "web",
+    "desc": "محرر وكود وبيئة تشغيل سحابية تدعم أكثر من 50 لغة برمجة.",
+    "platforms": [
+      "web"
+    ],
+    "license": "freemium",
+    "url": "https://replit.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "CodeSandbox"
+    ],
+    "tags": [
+      "كود",
+      "سحابة",
+      "تعلم"
+    ],
+    "slug": "replit"
+  },
+  {
+    "name": "Squoosh",
+    "nameAr": "سكوووش",
+    "category": "web",
+    "desc": "أداة ضغط وتحويل صور مفتوحة المصدر تعمل في المتصفح.",
+    "platforms": [
+      "web"
+    ],
+    "license": "open-source",
+    "url": "https://squoosh.app/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "TinyPNG"
+    ],
+    "tags": [
+      "صور",
+      "ضغط",
+      "مفتوح المصدر"
+    ],
+    "slug": "squoosh"
+  },
+  {
+    "name": "StackBlitz",
+    "nameAr": "ستاك بليتز",
+    "category": "web",
+    "desc": "محرر كود ويب فوري يفتح مشاريع Angular وReact وVue في ثوانٍ.",
+    "platforms": [
+      "web"
+    ],
+    "license": "freemium",
+    "url": "https://stackblitz.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "CodeSandbox"
+    ],
+    "tags": [
+      "كود",
+      "ويب",
+      "فوري"
+    ],
+    "slug": "stackblitz"
+  },
+  {
+    "name": "TinyPNG",
+    "nameAr": "تيني بينج",
+    "category": "web",
+    "desc": "أداة ضغط صور عبر الإنترنت مجانية تقلل حجم PNG وJPEG.",
+    "platforms": [
+      "web"
+    ],
+    "license": "freemium",
+    "url": "https://tinypng.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "Squoosh"
+    ],
+    "tags": [
+      "صور",
+      "ضغط",
+      "مجاني"
+    ],
+    "slug": "tinypng"
+  },
+  {
+    "name": "tldraw",
+    "nameAr": "تي إل درو",
+    "category": "web",
+    "desc": "لوحة رسم وتعاون بسيطة تعمل في المتصفح مجاناً لرسم المخططات والأفكار مع الآخرين.",
+    "platforms": [
+      "web"
+    ],
+    "license": "free",
+    "url": "https://tldraw.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "Excalidraw"
+    ],
+    "tags": [
+      "رسم",
+      "تعاون",
+      "لوحة"
+    ],
+    "slug": "tldraw"
+  },
+  {
+    "name": "ChatGPT",
+    "nameAr": "شات جي بي تي",
+    "category": "ai",
+    "desc": "مساعد ذكاء اصطناعي محادثي من OpenAI يجيب الأسئلة ويكتب ويبرمج ويحلل الصور والملفات.",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "license": "freemium",
+    "url": "https://chatgpt.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "Claude",
+      "Gemini"
+    ],
+    "tags": [
+      "ذكاء اصطناعي",
+      "محادثة",
+      "كتابة"
+    ],
+    "slug": "chatgpt"
+  },
+  {
+    "name": "Claude",
+    "nameAr": "كلود",
+    "category": "ai",
+    "desc": "مساعد ذكاء اصطناعي من Anthropic متخصص في المحادثة الطويلة وتحليل المستندات والبرمجة.",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "license": "freemium",
+    "url": "https://claude.ai/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "ChatGPT"
+    ],
+    "tags": [
+      "ذكاء اصطناعي",
+      "محادثة",
+      "تحليل"
+    ],
+    "slug": "claude"
+  },
+  {
+    "name": "DALL-E",
+    "nameAr": "دال-إي",
+    "category": "ai",
+    "desc": "نموذج توليد صور من OpenAI متاح عبر ChatGPT وAPI.",
+    "platforms": [
+      "web"
+    ],
+    "license": "paid",
+    "url": "https://openai.com/dall-e-3",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "Midjourney",
+      "Stable Diffusion"
+    ],
+    "tags": [
+      "صور",
+      "ذكاء اصطناعي",
+      "OpenAI"
+    ],
+    "slug": "dall-e"
+  },
+  {
+    "name": "Gemini",
+    "nameAr": "جيميناي",
+    "category": "ai",
+    "desc": "مساعد ذكاء اصطناعي من Google متكامل مع خدماتها لكتابة النصوص وتحليل الصور والبحث.",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "license": "free",
+    "url": "https://gemini.google.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "ChatGPT"
+    ],
+    "tags": [
+      "ذكاء اصطناعي",
+      "جوجل",
+      "بحث"
+    ],
+    "slug": "gemini"
+  },
+  {
+    "name": "Grammarly",
+    "nameAr": "جرامرلي",
+    "category": "ai",
+    "desc": "أداة تصحيح قواعد اللغة الإنجليزية تعمل في المتصفح والبرامج.",
+    "platforms": [
+      "web",
+      "windows",
+      "mac"
+    ],
+    "license": "freemium",
+    "url": "https://www.grammarly.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [],
+    "tags": [
+      "كتابة",
+      "لغة",
+      "تصحيح"
+    ],
+    "slug": "grammarly"
+  },
+  {
+    "name": "Hugging Face",
+    "nameAr": "هاقينج فيس",
+    "category": "ai",
+    "desc": "منصة مجتمع للنماذج والبيانات مفتوحة المصدر مع مساحات تجريبية.",
+    "platforms": [
+      "web"
+    ],
+    "license": "free",
+    "url": "https://huggingface.co/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [],
+    "tags": [
+      "ذكاء اصطناعي",
+      "نماذج",
+      "مجتمع"
+    ],
+    "slug": "hugging-face"
+  },
+  {
+    "name": "Midjourney",
+    "nameAr": "ميدجورني",
+    "category": "ai",
+    "desc": "خدمة توليد صور بالذكاء الاصطناعي عالية الجودة عبر ديسكورد والويب.",
+    "platforms": [
+      "web"
+    ],
+    "license": "paid",
+    "url": "https://www.midjourney.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "DALL-E",
+      "Stable Diffusion"
+    ],
+    "tags": [
+      "صور",
+      "ذكاء اصطناعي",
+      "توليد"
+    ],
+    "slug": "midjourney"
+  },
+  {
+    "name": "Perplexity",
+    "nameAr": "بيربليكستي",
+    "category": "ai",
+    "desc": "محرك بحث ذكي بالذكاء الاصطناعي يعطي إجابات مباشرة موثّقة بمصادر من الويب.",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "license": "freemium",
+    "url": "https://www.perplexity.ai/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "ChatGPT"
+    ],
+    "tags": [
+      "بحث",
+      "ذكاء اصطناعي",
+      "مصادر"
+    ],
+    "slug": "perplexity"
+  },
+  {
+    "name": "Stable Diffusion",
+    "nameAr": "ستيبل ديفيوجن",
+    "category": "ai",
+    "desc": "نموذج توليد صور مفتوح المصدر يمكن تشغيله محلياً أو عبر خدمات.",
+    "platforms": [
+      "web"
+    ],
+    "license": "open-source",
+    "url": "https://stability.ai/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "Midjourney",
+      "DALL-E"
+    ],
+    "tags": [
+      "صور",
+      "ذكاء اصطناعي",
+      "مفتوح المصدر"
+    ],
+    "slug": "stable-diffusion"
+  },
+  {
+    "name": "Dropbox",
+    "nameAr": "دروب بوكس",
+    "category": "cloud",
+    "desc": "خدمة تخزين سحابي ومزامنة ملفات شهيرة تدعم كل الأنظمة وتتيح مشاركة الملفات والوصول من أي جهاز.",
+    "platforms": [
+      "web",
+      "windows",
+      "mac",
+      "linux",
+      "ios",
+      "android"
+    ],
+    "license": "freemium",
+    "url": "https://www.dropbox.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "Google Drive",
+      "OneDrive"
+    ],
+    "tags": [
+      "تخزين",
+      "مزامنة",
+      "سحابة"
+    ],
+    "slug": "dropbox"
+  },
+  {
+    "name": "iCloud",
+    "nameAr": "آي كلاود",
+    "category": "cloud",
+    "desc": "خدمة التخزين السحابي من Apple للمزامنة بين أجهزة Apple.",
+    "platforms": [
+      "web",
+      "mac",
+      "ios"
+    ],
+    "license": "freemium",
+    "url": "https://www.icloud.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "Dropbox"
+    ],
+    "tags": [
+      "تخزين",
+      "Apple",
+      "مزامنة"
+    ],
+    "slug": "icloud"
+  },
+  {
+    "name": "MEGA",
+    "nameAr": "ميجا",
+    "category": "cloud",
+    "desc": "خدمة تخزين سحابي تركز على الخصوصية مع تشفير من طرف إلى طرف ومساحة مجانية سخية.",
+    "platforms": [
+      "web",
+      "windows",
+      "mac",
+      "linux",
+      "ios",
+      "android"
+    ],
+    "license": "freemium",
+    "url": "https://mega.io/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "pCloud"
+    ],
+    "tags": [
+      "تخزين",
+      "تشفير",
+      "خصوصية"
+    ],
+    "slug": "mega"
+  },
+  {
+    "name": "OneDrive",
+    "nameAr": "ون درايف",
+    "category": "cloud",
+    "desc": "خدمة التخزين السحابي من مايكروسوفت مدمجة مع ويندوز وأوفس وتتيح مزامنة الملفات والصور.",
+    "platforms": [
+      "web",
+      "windows",
+      "mac",
+      "ios",
+      "android"
+    ],
+    "license": "freemium",
+    "url": "https://onedrive.live.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "Google Drive",
+      "Dropbox"
+    ],
+    "tags": [
+      "تخزين",
+      "مايكروسوفت",
+      "سحابة"
+    ],
+    "slug": "onedrive"
+  },
+  {
+    "name": "pCloud",
+    "nameAr": "بي كلاود",
+    "category": "cloud",
+    "desc": "خدمة تخزين سحابي أوروبية تقدم خزنة مشفّرة اختيارية ومساحة دائمة بشراء لمرة واحدة.",
+    "platforms": [
+      "web",
+      "windows",
+      "mac",
+      "linux",
+      "ios",
+      "android"
+    ],
+    "license": "freemium",
+    "url": "https://www.pcloud.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "MEGA"
+    ],
+    "tags": [
+      "تخزين",
+      "سحابة",
+      "خزنة"
+    ],
+    "slug": "pcloud"
+  },
+  {
+    "name": "Sync.com",
+    "nameAr": "سينك دوت كوم",
+    "category": "cloud",
+    "desc": "تخزين سحابي آمن مع تشفير من طرف إلى طرف للملفات والمزامنة.",
+    "platforms": [
+      "web",
+      "windows",
+      "mac",
+      "ios",
+      "android"
+    ],
+    "license": "freemium",
+    "url": "https://www.sync.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "MEGA",
+      "pCloud"
+    ],
+    "tags": [
+      "تخزين",
+      "تشفير",
+      "سحابة"
+    ],
+    "slug": "sync-com"
+  },
+  {
+    "name": "Adobe Acrobat",
+    "nameAr": "أدوبي أكروبات",
+    "category": "pdf",
+    "desc": "حزمة PDF الاحترافية من Adobe للتحرير والتوقيع والتحويل.",
+    "platforms": [
+      "windows",
+      "mac"
+    ],
+    "license": "freemium",
+    "url": "https://www.adobe.com/acrobat.html",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "Foxit Reader"
+    ],
+    "tags": [
+      "PDF",
+      "تحرير",
+      "احترافي"
+    ],
+    "slug": "adobe-acrobat"
+  },
+  {
+    "name": "Foxit Reader",
+    "nameAr": "فوكسيت ريدر",
+    "category": "pdf",
+    "desc": "قارئ PDF خفيف وسريع مع تعليقات وملء نماذج.",
+    "platforms": [
+      "windows",
+      "mac"
+    ],
+    "license": "freemium",
+    "url": "https://www.foxit.com/pdf-reader/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "Adobe Acrobat"
+    ],
+    "tags": [
+      "PDF",
+      "قارئ",
+      "خفيف"
+    ],
+    "slug": "foxit-reader"
+  },
+  {
+    "name": "iLovePDF",
+    "nameAr": "آي لوف باي بي إف",
+    "category": "pdf",
+    "desc": "خدمة عبر الإنترنت لتحويل وتفكيك وتغليف ملفات PDF لإنشاء المستندات بسهولة وأمان.",
+    "platforms": [
+      "web"
+    ],
+    "license": "freemium",
+    "url": "https://www.ilovepdf.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "PDF24",
+      "Sejda"
+    ],
+    "tags": [
+      "PDF",
+      "تحويل",
+      "تفكيك"
+    ],
+    "slug": "ilovepdf"
+  },
+  {
+    "name": "PDF24",
+    "nameAr": "بي إف دو",
+    "category": "pdf",
+    "desc": "أداة عبر الإنترنت مجانية لإنشاء وتحرير وتضغيط ومحو PDF من متصفح مباشرة بدون تحميل.",
+    "platforms": [
+      "web"
+    ],
+    "license": "free",
+    "url": "https://tools.pdf24.org/en/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "Stirling PDF",
+      "Sejda"
+    ],
+    "tags": [
+      "PDF",
+      "إنشاء",
+      "تحرير"
+    ],
+    "slug": "pdf24"
+  },
+  {
+    "name": "Sejda",
+    "nameAr": "سيجدا",
+    "category": "pdf",
+    "desc": "أداة PDF سريعة ومخصصة للعمل المكتبي تعمل عبر الإنترنت وتدعم قص وتقسيم وترميز.",
+    "platforms": [
+      "web"
+    ],
+    "license": "freemium",
+    "url": "https://www.sejda.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "iLovePDF"
+    ],
+    "tags": [
+      "PDF",
+      "قص",
+      "ترميز"
+    ],
+    "slug": "sejda"
+  },
+  {
+    "name": "Smallpdf",
+    "nameAr": "سمول بي دي إف",
+    "category": "pdf",
+    "desc": "أداة PDF عبر الإنترنت مجانية للتحويل والضغط والتوقيع.",
+    "platforms": [
+      "web"
+    ],
+    "license": "freemium",
+    "url": "https://smallpdf.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "iLovePDF",
+      "PDF24"
+    ],
+    "tags": [
+      "PDF",
+      "تحويل",
+      "مجاني"
+    ],
+    "slug": "smallpdf"
+  },
+  {
+    "name": "Stirling PDF",
+    "nameAr": "ستيرلينغ بي إف",
+    "category": "pdf",
+    "desc": "محرك PDF مفتوح المصدر متكامل يعمل من المتصفح لتحويل وضغط وتوقيع ومحو ملفات PDF.",
+    "platforms": [
+      "web"
+    ],
+    "license": "open-source",
+    "url": "https://github.com/Stirling-Tools/Stirling-PDF",
+    "urlType": "github",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "PDF24",
+      "iLovePDF"
+    ],
+    "tags": [
+      "PDF",
+      "مفتوح المصدر",
+      "تحويل"
+    ],
+    "slug": "stirling-pdf"
+  },
+  {
+    "name": "aria2",
+    "nameAr": "آريا 2",
+    "category": "download",
+    "desc": "محسّن تنزيل من الطرفية مفتوح المصدر يدعم HTTP HTTPS FTP وماك وكوكيز متقدمة.",
+    "platforms": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "license": "open-source",
+    "url": "https://aria2.github.io/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "Motrix"
+    ],
+    "tags": [
+      "تنزيل",
+      "تحميل",
+      "محسّن"
+    ],
+    "slug": "aria2"
+  },
+  {
+    "name": "DownThemAll",
+    "nameAr": "داون ذم أول",
+    "category": "download",
+    "desc": "إضافة مجانية مفتوحة المصدر لتنزيل ملفات متعددة دفعة واحدة.",
+    "platforms": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "license": "open-source",
+    "url": "https://www.downthemall.net/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "Free Download Manager"
+    ],
+    "tags": [
+      "تنزيل",
+      "مفتوح المصدر",
+      "متصفح"
+    ],
+    "slug": "downthemall"
+  },
+  {
+    "name": "Free Download Manager",
+    "nameAr": "مدير التنزيل المجاني",
+    "category": "download",
+    "desc": "أداة تنزيل مجانية عبر الإنترنت تدعم تحميل من متصفح ومن مصادر مباشرة ومتابعة التقدم.",
+    "platforms": [
+      "web",
+      "windows",
+      "mac",
+      "linux",
+      "android"
+    ],
+    "license": "free",
+    "url": "https://www.freedownloadmanager.org/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "JDownloader"
+    ],
+    "tags": [
+      "تنزيل",
+      "تحميل",
+      "مجاني"
+    ],
+    "slug": "free-download-manager"
+  },
+  {
+    "name": "Internet Download Manager",
+    "nameAr": "إنترنت داونلود ماناجر",
+    "category": "download",
+    "desc": "مدير تنزيل شهير لويندوز يسرع التحميل ويستأنف الملفات المنقطعة.",
+    "platforms": [
+      "windows"
+    ],
+    "license": "paid",
+    "url": "https://www.internetdownloadmanager.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "Free Download Manager"
+    ],
+    "tags": [
+      "تنزيل",
+      "تحميل",
+      "ويندوز"
+    ],
+    "slug": "internet-download-manager"
+  },
+  {
+    "name": "JDownloader 2",
+    "nameAr": "جي داونلودر 2",
+    "category": "download",
+    "desc": "أداة مفتوحة المصدر لتنزيل ملفات متعددة الخصائص من مواقع التحميل الكبيرة ومحاكاة المرور.",
+    "platforms": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "license": "open-source",
+    "url": "https://jdownloader.org/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [],
+    "tags": [
+      "تنزيل",
+      "تحميل",
+      "مفتوح المصدر"
+    ],
+    "slug": "jdownloader-2"
+  },
+  {
+    "name": "Motrix",
+    "nameAr": "موتريكس",
+    "category": "download",
+    "desc": "مدير تنزيل مفتوح المصدر خفيف يعمل على Windows وmacOS وLinux ويوفر واجهة عربية وانسيابية.",
+    "platforms": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "license": "open-source",
+    "url": "https://motrix.app/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "aria2"
+    ],
+    "tags": [
+      "تنزيل",
+      "تحميل",
+      "مفتوح المصدر"
+    ],
+    "slug": "motrix"
+  },
+  {
+    "name": "Coursera",
+    "nameAr": "كورسيرا",
+    "category": "education",
+    "desc": "منصة تعلم بالمرور عبر دورات شهيرة من الجامعات والشركات مع شهادات مشاركة.",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "license": "freemium",
+    "url": "https://www.coursera.org/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "edX"
+    ],
+    "tags": [
+      "تعليم",
+      "دورات",
+      "جامعات"
+    ],
+    "slug": "coursera"
+  },
+  {
+    "name": "Duolingo",
+    "nameAr": "دولوينغو",
+    "category": "education",
+    "desc": "تطبيق تعلم اللغات عبر ألعاب تفاعلية عبر الإنترنت وMobile ومسابقات يومية.",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "license": "freemium",
+    "url": "https://www.duolingo.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [],
+    "tags": [
+      "لغات",
+      "ألعاب",
+      "تعلم"
+    ],
+    "slug": "duolingo"
+  },
+  {
+    "name": "edX",
+    "nameAr": "إدكس",
+    "category": "education",
+    "desc": "منصة تعليمية عالمية تمنح شهادات معتمدة من جامعات عالمية ومؤسسات تجارية.",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "license": "freemium",
+    "url": "https://www.edx.org/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "Coursera"
+    ],
+    "tags": [
+      "تعليم",
+      "شهادات",
+      "جامعات"
+    ],
+    "slug": "edx"
+  },
+  {
+    "name": "Khan Academy",
+    "nameAr": "خان أكاديمي",
+    "category": "education",
+    "desc": "منصة تعليمية مجانية للدراسة المجانية والتعليم الرقمي عبر فيديوهات ومقالات ومسابقات.",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "license": "free",
+    "url": "https://www.khanacademy.org/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [],
+    "tags": [
+      "تعليم",
+      "دروس",
+      "مجاني"
+    ],
+    "slug": "khan-academy"
+  },
+  {
+    "name": "Skillshare",
+    "nameAr": "سكيل شير",
+    "category": "education",
+    "desc": "منصة تعليم إبداعي بالفيديو مع مجتمع نشط ودورات قصيرة.",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "license": "paid",
+    "url": "https://www.skillshare.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "Udemy"
+    ],
+    "tags": [
+      "تعليم",
+      "إبداع",
+      "فيديو"
+    ],
+    "slug": "skillshare"
+  },
+  {
+    "name": "Udemy",
+    "nameAr": "أوديمي",
+    "category": "education",
+    "desc": "منصة دورات مدفوعة من مدربين مستقلين في مجالات كثيرة.",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "license": "freemium",
+    "url": "https://www.udemy.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "Coursera",
+      "Skillshare"
+    ],
+    "tags": [
+      "دورات",
+      "تعليم",
+      "مدفوع"
+    ],
+    "slug": "udemy"
+  },
+  {
+    "name": "Wikipedia",
+    "nameAr": "ويكيبيديا",
+    "category": "education",
+    "desc": "موسوعة حرة متعددة اللغات يكتبها المتطوعون وتحدّث باستمرار.",
+    "platforms": [
+      "web"
+    ],
+    "license": "free",
+    "url": "https://www.wikipedia.org/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [],
+    "tags": [
+      "موسوعة",
+      "معرفة",
+      "مجاني"
+    ],
+    "slug": "wikipedia"
+  },
+  {
+    "name": "Coinbase",
+    "nameAr": "كوين بيس",
+    "category": "finance",
+    "desc": "منصة عمليات العملات الرقمية الأشهر: شراء وبيع وتخزين العملات مع حماية مؤسسية وتطبيقات للويب والجوال وبطاقة إنفاق.",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "license": "freemium",
+    "url": "https://www.coinbase.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-01",
+    "alternatives": [
+      "Kraken",
+      "Robinhood"
+    ],
+    "tags": [
+      "عملات رقمية",
+      "شراء وبيع",
+      "محفظة"
+    ],
+    "slug": "coinbase"
+  },
+  {
+    "name": "Fidelity",
+    "nameAr": "فيليديتي",
+    "category": "finance",
+    "desc": "شركة خدمات مالية أمريكية كبرى لفتح حسابات استثمار وشراء الأسهم والصناديق وحسابات التقاعد مع أدوات بحث سوقية.",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "license": "free",
+    "url": "https://www.fidelity.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-01",
+    "alternatives": [
+      "Robinhood",
+      "Charles Schwab"
+    ],
+    "tags": [
+      "استثمار",
+      "صناديق",
+      "تقاعد"
+    ],
+    "slug": "fidelity"
+  },
+  {
+    "name": "FreshBooks",
+    "nameAr": "فريش بوكس",
+    "category": "finance",
+    "desc": "برنامج فواتير ومحاسبة سحابي للمشاريع الصغيرة: إصدار الفواتير ومتابعة المصروفات وأوقات العمل والرواتب.",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "license": "freemium",
+    "url": "https://www.freshbooks.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-01",
+    "alternatives": [
+      "Wave",
+      "QuickBooks"
+    ],
+    "tags": [
+      "فواتير",
+      "محاسبة",
+      "مستقلون"
+    ],
+    "slug": "freshbooks"
+  },
+  {
+    "name": "GnuCash",
+    "nameAr": "جنو كاش",
+    "category": "finance",
+    "desc": "برنامج محاسبة شخصية وتجارية مفتوح المصدر بمنهجية القيد المزدوج، يعمل محلياً على ويندوز وماك ولينكس دون اشتراك.",
+    "platforms": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "license": "open-source",
+    "url": "https://www.gnucash.org/download/",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-01",
+    "alternatives": [
+      "Money Manager Ex",
+      "Wave"
+    ],
+    "tags": [
+      "محاسبة",
+      "مصروفات",
+      "مفتوح المصدر"
+    ],
+    "slug": "gnucash"
+  },
+  {
+    "name": "HomeBank",
+    "nameAr": "هوم بنك",
+    "category": "finance",
+    "desc": "برنامج محاسبة شخصي مفتوح المصدر يوفر قوالب وملخصات شهرية وسهولة استخدام عربية.",
+    "platforms": [
+      "web",
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "license": "open-source",
+    "url": "https://homebank.free.fr/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "GnuCash"
+    ],
+    "tags": [
+      "مالية",
+      "محاسبة",
+      "مفتوح المصدر"
+    ],
+    "slug": "homebank"
+  },
+  {
+    "name": "Kraken",
+    "nameAr": "كراكن",
+    "category": "finance",
+    "desc": "منصة تداول عملات رقمية عالمية بسيولة عالية وأسواق احترافية للمتداولين المحترفين مع محفظة تحمّل ذاتي.",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "license": "freemium",
+    "url": "https://www.kraken.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-01",
+    "alternatives": [
+      "Coinbase",
+      "Binance"
+    ],
+    "tags": [
+      "عملات رقمية",
+      "تداول",
+      "منصة"
+    ],
+    "slug": "kraken"
+  },
+  {
+    "name": "Ledger",
+    "nameAr": "ليدجر",
+    "category": "finance",
+    "desc": "محافظ أجهزة عتادية لأمان العملات الرقمية خارج الإنترنت، مع تطبيق Ledger Live لإدارة الأصول والشراء والتبديل.",
+    "platforms": [
+      "windows",
+      "mac",
+      "linux",
+      "ios",
+      "android"
+    ],
+    "license": "free",
+    "url": "https://www.ledger.com/ledger-live",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-01",
+    "alternatives": [
+      "Trezor",
+      "Coinbase"
+    ],
+    "tags": [
+      "محفظة",
+      "أمان",
+      "عملات رقمية"
+    ],
+    "slug": "ledger"
+  },
+  {
+    "name": "MetaMask",
+    "nameAr": "ميتاماسك",
+    "category": "finance",
+    "desc": "محفظة عملات رقمية ذاتية الحفظ مفتوحة المصدر كإضافة متصفح وتطبيق جوال، تتيح التفاعل مع تطبيقات البلوكتشين والتبديل المباشر.",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "license": "open-source",
+    "url": "https://metamask.io/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-01",
+    "alternatives": [
+      "Ledger",
+      "Coinbase Wallet"
+    ],
+    "tags": [
+      "محفظة",
+      "بلوكتشين",
+      "مفتوح المصدر"
+    ],
+    "slug": "metamask"
+  },
+  {
+    "name": "Monarch Money",
+    "nameAr": "مونارش ماني",
+    "category": "finance",
+    "desc": "إدارة مالية سحابية تجمع الحسابات والديون والاستثمارات في لوحة واحدة، مع ميزانية تعاونية للأزواج وتتبّع صافي الثروة.",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "license": "freemium",
+    "url": "https://www.monarchmoney.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-01",
+    "alternatives": [
+      "YNAB",
+      "PocketGuard"
+    ],
+    "tags": [
+      "ميزانية",
+      "تتبّع",
+      "أسرة"
+    ],
+    "slug": "monarch-money"
+  },
+  {
+    "name": "Money Manager Ex",
+    "nameAr": "ماني مانجر إكس",
+    "category": "finance",
+    "desc": "مدير مصاريف شخصي مفتوح المصدر لتتبّع الدخل والمصروفات وحسابات البطاقات مع تقارير شهرية وسنوية مفصّلة.",
+    "platforms": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "license": "open-source",
+    "url": "https://github.com/moneymanagerex/moneymanagerex/releases/latest",
+    "urlType": "github",
+    "verifiedOn": "2026-11-01",
+    "alternatives": [
+      "GnuCash",
+      "HomeBank"
+    ],
+    "tags": [
+      "مصروفات",
+      "تقارير",
+      "مفتوح المصدر"
+    ],
+    "slug": "money-manager-ex"
+  },
+  {
+    "name": "PayPal",
+    "nameAr": "باي بال",
+    "category": "finance",
+    "desc": "منصة دفع إلكتروني عالمية لإرسال الأموال وتلقّيها والتسوق عبر الإنترنت مع حماية المشتري ومحفظة رقمية.",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "license": "free",
+    "url": "https://www.paypal.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-01",
+    "alternatives": [
+      "Wise",
+      "Stripe"
+    ],
+    "tags": [
+      "دفع",
+      "تحويل أموال",
+      "محفظة"
+    ],
+    "slug": "paypal"
+  },
+  {
+    "name": "Personal Capital",
+    "nameAr": "بيرسونال كابيتال",
+    "category": "finance",
+    "desc": "أداة متابعة مالية شاملة للاستثمار والأصول والميزانية.",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "license": "freemium",
+    "url": "https://www.empower.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "Mint"
+    ],
+    "tags": [
+      "استثمار",
+      "مالية",
+      "متابعة"
+    ],
+    "slug": "personal-capital"
+  },
+  {
+    "name": "PocketGuard",
+    "nameAr": "بوكت جارد",
+    "category": "finance",
+    "desc": "تطبيق ميزانية يربط حساباتك ويحسب المبلغ الآمن للإنفاق بعد الفواتير والالتزامات، ويكشف الاشتراكات المكرّرة.",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "license": "freemium",
+    "url": "https://pocketguard.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-01",
+    "alternatives": [
+      "YNAB",
+      "Monarch Money"
+    ],
+    "tags": [
+      "ميزانية",
+      "اشتراكات",
+      "ادخار"
+    ],
+    "slug": "pocketguard"
+  },
+  {
+    "name": "QuickBooks",
+    "nameAr": "كويك بوكس",
+    "category": "finance",
+    "desc": "أشهر برنامج محاسبة للأعمال من إنتويت: إدارة الحسابات والفواتير والمصروفات والمخزون والرواتب مع ربط البنوك مباشرة.",
+    "platforms": [
+      "web",
+      "windows",
+      "mac",
+      "ios",
+      "android"
+    ],
+    "license": "freemium",
+    "url": "https://quickbooks.intuit.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-01",
+    "alternatives": [
+      "Xero",
+      "Wave"
+    ],
+    "tags": [
+      "محاسبة",
+      "أعمال",
+      "فواتير"
+    ],
+    "slug": "quickbooks"
+  },
+  {
+    "name": "Robinhood",
+    "nameAr": "روبنهود",
+    "category": "finance",
+    "desc": "منصة تداول أمريكية للأسهم وصناديق ETF والخيارات والعملات الرقمية بعمولة صفري وواجهة جوال بسيطة للمبتدئين.",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "license": "free",
+    "url": "https://www.robinhood.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-01",
+    "alternatives": [
+      "Fidelity",
+      "eToro"
+    ],
+    "tags": [
+      "استثمار",
+      "أسهم",
+      "تداول"
+    ],
+    "slug": "robinhood"
+  },
+  {
+    "name": "Splitwise",
+    "nameAr": "سبليت وايز",
+    "category": "finance",
+    "desc": "تطبيق تقاسم المصروفات بين الأصدقاء والعائلة وزملاء السكن يحسب الأرصدة المستحقة ويسهّل التسوية بعشرات العملات.",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "license": "freemium",
+    "url": "https://www.splitwise.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-01",
+    "alternatives": [
+      "Tricount",
+      "Settle Up"
+    ],
+    "tags": [
+      "مصروفات مشتركة",
+      "أصدقاء",
+      "أرصدة"
+    ],
+    "slug": "splitwise"
+  },
+  {
+    "name": "Stripe",
+    "nameAr": "سترايب",
+    "category": "finance",
+    "desc": "بنية تحتية للمدفوعات للمطوّرين والشركات: قبول البطاقات وإدارة الاشتراكات والفواتير وربط المتاجر الإلكترونية بعمولة لكل معاملة.",
+    "platforms": [
+      "web"
+    ],
+    "license": "paid",
+    "url": "https://stripe.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-01",
+    "alternatives": [
+      "PayPal",
+      "Square"
+    ],
+    "tags": [
+      "مدفوعات",
+      "متاجر",
+      "مطوّرون"
+    ],
+    "slug": "stripe"
+  },
+  {
+    "name": "TradingView",
+    "nameAr": "تريدنج فيو",
+    "category": "finance",
+    "desc": "منصة رسوم بيانية وتحليل فني تغطي الأسهم والعملات الرقمية والسلع، بأدوات مؤشرات متقدّمة ومجتمع مستخدمين ضخم.",
+    "platforms": [
+      "web",
+      "windows",
+      "mac",
+      "linux",
+      "ios",
+      "android"
+    ],
+    "license": "freemium",
+    "url": "https://www.tradingview.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-01",
+    "alternatives": [
+      "MetaTrader",
+      "StockCharts"
+    ],
+    "tags": [
+      "تحليل فني",
+      "رسوم بيانية",
+      "أسواق"
+    ],
+    "slug": "tradingview"
+  },
+  {
+    "name": "TurboTax",
+    "nameAr": "توربو تاكس",
+    "category": "finance",
+    "desc": "برنامج إنتويت لتجهيز وتقديم الضرائب الأمريكية إلكترونياً بإرشاد خطوة بخطوة وحاسبات تقدير وخيارات استشارة خبراء.",
+    "platforms": [
+      "web",
+      "windows",
+      "mac",
+      "ios",
+      "android"
+    ],
+    "license": "freemium",
+    "url": "https://turbotax.intuit.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-01",
+    "alternatives": [
+      "H&R Block",
+      "TaxAct"
+    ],
+    "tags": [
+      "ضرائب",
+      "إقرار",
+      "تقديم إلكتروني"
+    ],
+    "slug": "turbotax"
+  },
+  {
+    "name": "Wave",
+    "nameAr": "ويف للمحاسبة",
+    "category": "finance",
+    "desc": "محاسبة سحابية مجانية للشركات الصغيرة والمستقلين: فواتير ومصروفات وقيود محاسبية وتقارير مالية عبر الويب وتطبيق الجوال.",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "license": "freemium",
+    "url": "https://www.waveapps.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-01",
+    "alternatives": [
+      "FreshBooks",
+      "Zoho Books"
+    ],
+    "tags": [
+      "محاسبة",
+      "فواتير",
+      "أعمال صغيرة"
+    ],
+    "slug": "wave"
+  },
+  {
+    "name": "Wise",
+    "nameAr": "وايز",
+    "category": "finance",
+    "desc": "خدمة تحويل دولي بأسعار صرف حقيقية ورسوم شفافة، أرخص من البنوك، مع بطاقة وحسابات متعددة العملات.",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "license": "freemium",
+    "url": "https://wise.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-01",
+    "alternatives": [
+      "PayPal",
+      "Revolut"
+    ],
+    "tags": [
+      "تحويل دولي",
+      "صرف عملات",
+      "دفع"
+    ],
+    "slug": "wise"
+  },
+  {
+    "name": "Xero",
+    "nameAr": "زيرو",
+    "category": "finance",
+    "desc": "محاسبة سحابية للشركات الصغيرة تجمع الفواتير والرواتب والتقارير المالية مع ربط آلاف التطبيقات الخدمية.",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "license": "freemium",
+    "url": "https://www.xero.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-01",
+    "alternatives": [
+      "QuickBooks",
+      "Zoho Books"
+    ],
+    "tags": [
+      "محاسبة",
+      "سحابة",
+      "تقارير"
+    ],
+    "slug": "xero"
+  },
+  {
+    "name": "YNAB",
+    "nameAr": "ويناب",
+    "category": "finance",
+    "desc": "تطبيق تخطيط مالي شخصي بمنهجية تخصيص كل دولار للإنفاق أو الادخار، مع مزامنة الحسابات البنكية وتقارير أداء الميزانية.",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "license": "paid",
+    "url": "https://www.ynab.com/download",
+    "urlType": "official-download",
+    "verifiedOn": "2026-11-01",
+    "alternatives": [
+      "Monarch Money",
+      "PocketGuard"
+    ],
+    "tags": [
+      "ميزانية",
+      "ادخار",
+      "مصروفات"
+    ],
+    "slug": "ynab"
+  },
+  {
+    "name": "Zoho Books",
+    "nameAr": "زوهو بوكس",
+    "category": "finance",
+    "desc": "محاسبة سحابية من منظومة زوهو تدير الفواتير والضرائب والمخزون والمدفوعات، مع دعم الفوترة الإلكترونية في عدة دول.",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "license": "freemium",
+    "url": "https://www.zoho.com/books/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-01",
+    "alternatives": [
+      "Xero",
+      "Wave"
+    ],
+    "tags": [
+      "محاسبة",
+      "فواتير",
+      "ضرائب"
+    ],
+    "slug": "zoho-books"
+  },
+  {
+    "name": "Calm",
+    "nameAr": "كالم",
+    "category": "health",
+    "desc": "تطبيق تأمل واسترخاء نفسي مع قصص نوم وتمارين تنفس.",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "license": "paid",
+    "url": "https://www.calm.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "Headspace"
+    ],
+    "tags": [
+      "تأمل",
+      "نوم",
+      "صحة نفسية"
+    ],
+    "slug": "calm"
+  },
+  {
+    "name": "Headspace",
+    "nameAr": "هيدسباس",
+    "category": "health",
+    "desc": "تطبيق تأمل واسترخاء نفسي يقدّم جلسات مساعدة يومية لتقليل التوتر والقلق.",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "license": "paid",
+    "url": "https://www.headspace.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "Calm"
+    ],
+    "tags": [
+      "تأمل",
+      "صحة نفسية",
+      "استرخاء"
+    ],
+    "slug": "headspace"
+  },
+  {
+    "name": "MyFitnessPal",
+    "nameAr": "مايفيتنس باي",
+    "category": "health",
+    "desc": "تطبيق متابعة التغذية واللياقة البدنية يقارن السعرات الحرارية ويتتبع الإنجازات والنوم.",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "license": "freemium",
+    "url": "https://www.myfitnesspal.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "Strava"
+    ],
+    "tags": [
+      "لياقة",
+      "تغذية",
+      "متابعة"
+    ],
+    "slug": "myfitnesspal"
+  },
+  {
+    "name": "Sleep Cycle",
+    "nameAr": "سليب سايكِل",
+    "category": "health",
+    "desc": "تطبيق تتبع نوم ذكي ينبهك في أخف مرحلة نوم.",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "license": "freemium",
+    "url": "https://www.sleepcycle.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [],
+    "tags": [
+      "نوم",
+      "صحة",
+      "تتبع"
+    ],
+    "slug": "sleep-cycle"
+  },
+  {
+    "name": "Strava",
+    "nameAr": "سترافا",
+    "category": "health",
+    "desc": "تطبيق ومحطة رياضية لمتابعة الجري والمشي وركوب الدراجات مع تتبع المسافات والإنجازات.",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "license": "freemium",
+    "url": "https://www.strava.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [],
+    "tags": [
+      "رياضة",
+      "جري",
+      "متابعة"
+    ],
+    "slug": "strava"
+  },
+  {
+    "name": "Yazio",
+    "nameAr": "يايزيو",
+    "category": "health",
+    "desc": "تطبيق متابعة التغذية الرياضية وحركة الجسم مع خطط مخصصة للمساعدات والتدريب الذاتي.",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "license": "freemium",
+    "url": "https://www.yazio.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "MyFitnessPal"
+    ],
+    "tags": [
+      "تغذية",
+      "لياقة",
+      "متابعة"
+    ],
+    "slug": "yazio"
+  },
+  {
+    "name": "Epic Games Store",
+    "nameAr": "إكبيك غيمز ستور",
+    "category": "gaming",
+    "desc": "متجر ألعاب مجاني يمنح ألعاب قيمة شهيرة مجاناً شهرياً مع تمريرات وتحديثات.",
+    "platforms": [
+      "web",
+      "windows",
+      "mac"
+    ],
+    "license": "free",
+    "url": "https://store.epicgames.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "Steam",
+      "GOG"
+    ],
+    "tags": [
+      "ألعاب",
+      "متجر",
+      "مجاني"
+    ],
+    "slug": "epic-games-store"
+  },
+  {
+    "name": "GeForce NOW",
+    "nameAr": "جي فورس ناو",
+    "category": "gaming",
+    "desc": "خدمة ألعاب سحابية من NVIDIA تشغّل ألعابك على خوادم قوية.",
+    "platforms": [
+      "web",
+      "windows",
+      "mac",
+      "android",
+      "ios"
+    ],
+    "license": "freemium",
+    "url": "https://www.nvidia.com/en-us/geforce-now/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "Xbox Cloud Gaming"
+    ],
+    "tags": [
+      "ألعاب سحابية",
+      "NVIDIA",
+      "بث"
+    ],
+    "slug": "geforce-now"
+  },
+  {
+    "name": "GOG",
+    "nameAr": "جيو جي بي",
+    "category": "gaming",
+    "desc": "متجر ألعاب مفتوح المصدر يعرض ألعاب DRM-free مع تحميلات مباشرة ودعم Linux.",
+    "platforms": [
+      "web",
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "license": "free",
+    "url": "https://www.gog.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "Steam",
+      "Epic Games Store"
+    ],
+    "tags": [
+      "ألعاب",
+      "متجر",
+      "DRM-free"
+    ],
+    "slug": "gog"
+  },
+  {
+    "name": "itch.io",
+    "nameAr": "آث شيب",
+    "category": "gaming",
+    "desc": "منصة تمويل وجمع ألعاب وحزم تطوير مستقلة مع مجتمع ضخم لمشاريع indie.",
+    "platforms": [
+      "web",
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "license": "free",
+    "url": "https://itch.io/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [],
+    "tags": [
+      "ألعاب",
+      "indie",
+      "مستقل"
+    ],
+    "slug": "itch-io"
+  },
+  {
+    "name": "Minecraft",
+    "nameAr": "ماين كرافت",
+    "category": "gaming",
+    "desc": "لعبة بناء واستكشاف ثلاثية الأبعاد شهيرة جداً عبر جميع المنصات.",
+    "platforms": [
+      "web",
+      "windows",
+      "mac",
+      "android",
+      "ios"
+    ],
+    "license": "paid",
+    "url": "https://www.minecraft.net/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "Roblox"
+    ],
+    "tags": [
+      "لعبة",
+      "بناء",
+      "استكشاف"
+    ],
+    "slug": "minecraft"
+  },
+  {
+    "name": "Roblox",
+    "nameAr": "روبلوكس",
+    "category": "gaming",
+    "desc": "منصة ألعاب مجانية على الويب والجوال تتيح بناء ألعابك الخاصة ولعبها.",
+    "platforms": [
+      "web",
+      "windows",
+      "mac",
+      "android",
+      "ios"
+    ],
+    "license": "free",
+    "url": "https://www.roblox.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "Minecraft"
+    ],
+    "tags": [
+      "ألعاب",
+      "منصة",
+      "مجاني"
+    ],
+    "slug": "roblox"
+  },
+  {
+    "name": "Steam",
+    "nameAr": "ستيم",
+    "category": "gaming",
+    "desc": "متجر وتوزيع ألعاب PC الأكثر شعبية مع مكتبة ألعاب مجانية وتحديثات تلقائية وتوافق مع Linux عبر Proton.",
+    "platforms": [
+      "web",
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "license": "free",
+    "url": "https://store.steampowered.com/",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "Epic Games Store",
+      "GOG"
+    ],
+    "tags": [
+      "ألعاب",
+      "متجر",
+      "PC"
+    ],
+    "slug": "steam"
+  },
+  {
+    "name": "Xbox Cloud Gaming",
+    "nameAr": "إكس بوكس كلاود جيمينج",
+    "category": "gaming",
+    "desc": "خدمة ألعاب سحابية من مايكروسوفت تتيح لعب ألعاب Xbox على الجوال والويب.",
+    "platforms": [
+      "web",
+      "android",
+      "ios"
+    ],
+    "license": "freemium",
+    "url": "https://www.xbox.com/cloud-gaming",
+    "urlType": "official-site",
+    "verifiedOn": "2026-11-14",
+    "alternatives": [
+      "GeForce NOW"
+    ],
+    "tags": [
+      "ألعاب سحابية",
+      "Xbox",
+      "بث"
+    ],
+    "slug": "xbox-cloud-gaming"
+  }
+]
